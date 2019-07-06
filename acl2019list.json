@@ -1,0 +1,6146 @@
+[
+  {
+    "title": "SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings",
+    "authors": "Chengyu Wang, XIAOFENG HE and Aoying Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 0
+  },
+  {
+    "title": "Learning from Dialogue after Deployment: Feed Yourself, Chatbot!",
+    "authors": "Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare and Jason Weston",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 1
+  },
+  {
+    "title": "MOROCO: The Moldavian and Romanian Dialectal Corpus",
+    "authors": "Andrei Butnaru and Radu Tudor Ionescu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 2
+  },
+  {
+    "title": "Improved Language Modeling by Decoding the Past",
+    "authors": "Siddhartha Brahma",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 3
+  },
+  {
+    "title": "Generating Responses with a Specific Emotion in Dialog",
+    "authors": "Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu and Xuanjing Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 4
+  },
+  {
+    "title": "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention",
+    "authors": "Wenhu Chen, Jianshu Chen, Pengda Qin, Xifeng Yan and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 5
+  },
+  {
+    "title": "Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings",
+    "authors": "Matthew Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela and Maximilian Nickel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 6
+  },
+  {
+    "title": "Open Vocabulary Learning for Neural Chinese Pinyin IME",
+    "authors": "Zhuosheng Zhang, Yafang Huang and Hai Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 7
+  },
+  {
+    "title": "Head-Driven Phrase Structure Grammar Parsing on Penn Treebank",
+    "authors": "Junru Zhou and Hai Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 8
+  },
+  {
+    "title": "Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video",
+    "authors": "Zhenfang Chen, Lin Ma, Wenhan Luo and Kwan-Yee Kenneth Wong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 9
+  },
+  {
+    "title": "Reinforced Training Data Selection for Domain Adaptation",
+    "authors": "Miaofeng Liu, Yan Song, Hongbin Zou and Tong Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 10
+  },
+  {
+    "title": "Generating Long and Informative Reviews with Aspect-Aware Coarse-to-Fine Decoding",
+    "authors": "Junyi Li, Wayne Xin Zhao, Ji-Rong Wen and Yang Song",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 11
+  },
+  {
+    "title": "Neural News Recommendation with Long- and Short-term User Representations",
+    "authors": "Mingxiao An, Fangzhao Wu, Chuhan Wu, Kun Zhang, Zheng Liu and Xing Xie",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 12
+  },
+  {
+    "title": "Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text",
+    "authors": "Jianxing YU, Zhengjun ZHA and Jian YIN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 13
+  },
+  {
+    "title": "Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model",
+    "authors": "Wei Li, Jingjing Xu, Yancheng He, ShengLi Yan, Yunfang Wu and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 14
+  },
+  {
+    "title": "Adversarial Attention Modeling for Multi-dimensional Emotion Regression",
+    "authors": "Suyang Zhu, Shoushan Li and Guodong Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 15
+  },
+  {
+    "title": "Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing",
+    "authors": "Sijie Mai, Haifeng Hu and Songlong Xing",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 16
+  },
+  {
+    "title": "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs",
+    "authors": "Seungwhan Moon, Pararth Shah, Anuj Kumar and Rajen Subba",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 17
+  },
+  {
+    "title": "Joint Slot Filling and Intent Detection via Capsule Neural Networks",
+    "authors": "Chenwei Zhang, Yaliang Li, Nan Du, Wei Fan and Philip Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 18
+  },
+  {
+    "title": "Semi-supervised Domain Adaptation for Dependency Parsing",
+    "authors": "Zhenghua Li, Xue Peng, Min Zhang, Rui Wang and Luo Si",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 19
+  },
+  {
+    "title": "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation",
+    "authors": "Rui Zhang and Joel Tetreault",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 20
+  },
+  {
+    "title": "Dense Procedure Captioning in Narrated Instructional Videos",
+    "authors": "Botian Shi, Lei Ji, Yaobo Liang, Nan Duan, Peng Chen, Zhendong Niu and Ming Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 21
+  },
+  {
+    "title": "Incremental Learning from Scratch for Task-Oriented Dialogue Systems",
+    "authors": "Weikang Wang, Jiajun Zhang, Qian Li, Mei-Yuh Hwang, Chengqing Zong and Zhifei Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 22
+  },
+  {
+    "title": "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model",
+    "authors": "Yitao Cai, Huiyu Cai and Xiaojun Wan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 23
+  },
+  {
+    "title": "Task Refinement Learning for Improved Accuracy and Stability of Unsupervised Domain Adaptation",
+    "authors": "Yftah Ziser and Roi Reichart",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 24
+  },
+  {
+    "title": "Deep Dominance - How to Properly Compare Deep Neural Models",
+    "authors": "Rotem Dror, Segev Shlomov and Roi Reichart",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 25
+  },
+  {
+    "title": "Zero-Shot Semantic Parsing for Instructions",
+    "authors": "Ofer Givoli and Roi Reichart",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 26
+  },
+  {
+    "title": "Automatic Domain Adaptation Outperforms Manual Domain Adaptation for Predicting Financial Outcomes",
+    "authors": "Marina Sedinkina, Nikolas Breitkopf and Hinrich Schütze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 27
+  },
+  {
+    "title": "Latent Variable Model for Multi-modal Translation",
+    "authors": "Iacer Calixto, Miguel Rios and Wilker Aziz",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 28
+  },
+  {
+    "title": "Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension",
+    "authors": "Yimeng Zhuang and Huadong Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 29
+  },
+  {
+    "title": "PaperRobot: Incremental Draft Generation of Scientific Ideas",
+    "authors": "Qingyun Wang, Lifu Huang, Zhiying Jiang, Kevin Knight, Heng Ji, Mohit Bansal and Yi Luan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 30
+  },
+  {
+    "title": "Reliability-aware Dynamic Feature Composition for Name Tagging",
+    "authors": "Ying Lin, Liyuan Liu, Heng Ji, Dong Yu and Jiawei Han",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 31
+  },
+  {
+    "title": "Topic Tensor Network for Implicit Discourse Relation Recognition in Chinese",
+    "authors": "Sheng Xu, Peifeng Li, Fang Kong, Qiaoming Zhu and Guodong Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 32
+  },
+  {
+    "title": "Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets",
+    "authors": "Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Shiyu Chang, Mo Yu, Conghui Zhu and Tiejun Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 33
+  },
+  {
+    "title": "ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation",
+    "authors": "Hainan Zhang, Yanyan Lan, Liang Pang, Jiafeng Guo and Xueqi Cheng",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 34
+  },
+  {
+    "title": "AutoML strategy based on grammatical evolution: A case study about knowledge discovery from text",
+    "authors": "Suilan Estevez-Velarde, Yoan Gutiérrez, Andrés Montoyo and Yudivián Almeida-Cruz",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 35
+  },
+  {
+    "title": "Manipulating the Difficulty of C-Tests",
+    "authors": "Ji-Ung Lee, Erik Schwan and Christian M. Meyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 36
+  },
+  {
+    "title": "Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings",
+    "authors": "Zied Haj-Yahia, Adrien Sieg and Léa A. Deleris",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 37
+  },
+  {
+    "title": "A Cross-Sentence Latent Variable Model for Semi-Supervised Text Sequence Matching",
+    "authors": "Jihun Choi, Taeuk Kim and Sang-goo Lee",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 38
+  },
+  {
+    "title": "Heuristic Authorship Obfuscation",
+    "authors": "Janek Bevendorff, Martin Potthast, Matthias Hagen and Benno Stein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 39
+  },
+  {
+    "title": "Learning Deep Transformer Models for Machine Translation",
+    "authors": "Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong and Lidia S. Chao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 40
+  },
+  {
+    "title": "Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model",
+    "authors": "Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 41
+  },
+  {
+    "title": "Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation",
+    "authors": "Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 42
+  },
+  {
+    "title": "Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation",
+    "authors": "Masashi Yoshikawa, Hiroshi Noji, Koji Mineshima and Daisuke Bekki",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 43
+  },
+  {
+    "title": "Multi-Source Cross-Lingual Model Transfer: Learning What to Share",
+    "authors": "Xilun Chen, Ahmed Hassan Awadallah, Hany Hassan, Wei Wang and Claire Cardie",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 44
+  },
+  {
+    "title": "Identifying Visible Actions in Lifestyle Vlogs",
+    "authors": "Oana Ignat, Laura Burdick, Jia Deng and Rada Mihalcea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 45
+  },
+  {
+    "title": "Augmenting Neural Networks with First-order Logic",
+    "authors": "Tao Li and Vivek Srikumar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 46
+  },
+  {
+    "title": "Bayes Test of Precision, Recall, and F1 Measure for Comparison of Two Natural Language Processing Models",
+    "authors": "Ruibo WANG and Jihong Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 47
+  },
+  {
+    "title": "Explicit Utilization of General Knowledge in Machine Reading Comprehension",
+    "authors": "Chao Wang and Hui Jiang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 48
+  },
+  {
+    "title": "DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction",
+    "authors": "Huaishao Luo, Tianrui Li, Bing Liu and Junbo Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 49
+  },
+  {
+    "title": "Self-Attentional Models for Lattice Inputs",
+    "authors": "Matthias Sperber, Graham Neubig, Ngoc-Quan Pham and Alex Waibel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 50
+  },
+  {
+    "title": "Multi-style Generative Reading Comprehension",
+    "authors": "Kyosuke Nishida, Itsumi Saito, Kosuke Nishida, Kazutoshi Shinoda, Atsushi Otsuka, Hisako Asano and Junji Tomita",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 51
+  },
+  {
+    "title": "Joint Effects of Context and User History for Predicting Online Conversation Re-entries",
+    "authors": "Xingshan Zeng, Jing Li, Lu Wang and Kam-Fai Wong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 52
+  },
+  {
+    "title": "A Resource-Free Evaluation Metric for Cross-Lingual Word Embeddings Based on Graph Modularity",
+    "authors": "Yoshinari Fujinuma, Jordan Boyd-Graber and Michael J. Paul",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 53
+  },
+  {
+    "title": "Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension",
+    "authors": "Daesik Kim, Seonhoon Kim and Nojun Kwak",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 54
+  },
+  {
+    "title": "Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification",
+    "authors": "Zhi-Xiu Ye and Zhen-Hua Ling",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 55
+  },
+  {
+    "title": "Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension",
+    "authors": "Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 56
+  },
+  {
+    "title": "Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision",
+    "authors": "Hongliang Dai and Yangqiu Song",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 57
+  },
+  {
+    "title": "Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing",
+    "authors": "Daya Guo, Duyu Tang, Nan Duan, Ming Zhou and Jian Yin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 58
+  },
+  {
+    "title": "Improving Abstractive Document Summarization with Salient Information Modeling",
+    "authors": "Yongjian You, Weijia Jia, Tianyi Liu and Wenmian Yang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 59
+  },
+  {
+    "title": "Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking",
+    "authors": "Masaru Isonuma, Junichiro Mori and Ichiro Sakata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 60
+  },
+  {
+    "title": "Just \"OneSeC\" for Producing Multilingual Sense-Annotated Data",
+    "authors": "Bianca Scarlini, Tommaso Pasini and Roberto Navigli",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 61
+  },
+  {
+    "title": "How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions",
+    "authors": "Goran Glavaš, Robert Litschko, Sebastian Ruder and Ivan Vulić",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 62
+  },
+  {
+    "title": "Learning from omission",
+    "authors": "Bill McDowell and Noah Goodman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 63
+  },
+  {
+    "title": "Topic Modeling with Wasserstein Autoencoders",
+    "authors": "Feng Nan, Ran Ding, Ramesh Nallapati and Bing Xiang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 64
+  },
+  {
+    "title": "Towards Language Agnostic Universal Representations",
+    "authors": "Armen Aghajanyan, Xia Song and Saurabh Tiwary",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 65
+  },
+  {
+    "title": "Meaning to Form: Measuring Systematicity as Information",
+    "authors": "Tiago Pimentel, Arya D. McCarthy, Damian Blasi, Brian Roark and Ryan Cotterell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 66
+  },
+  {
+    "title": "Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology",
+    "authors": "Ran Zmigrod, Sebastian J. Mielke, Hanna Wallach and Ryan Cotterell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 67
+  },
+  {
+    "title": "Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Table",
+    "authors": "Matthew Shardlow and Raheel Nawaz",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 68
+  },
+  {
+    "title": "TIGS: An Inference Algorithm for Text Infilling with Gradient Search",
+    "authors": "Dayiheng Liu, Jie Fu, Pengfei Liu and Jiancheng Lv",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 69
+  },
+  {
+    "title": "Stochastic Tokenization with a Language Model for Neural Text Classification",
+    "authors": "Tatsuya Hiraoka, Hiroyuki Shindo and Yuji Matsumoto",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 70
+  },
+  {
+    "title": "Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency",
+    "authors": "Shuhuai Ren, Yihe Deng, Kun He and Wanxiang Che",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 71
+  },
+  {
+    "title": "Modeling financial analysts’ decision making via the pragmatics and semantics of earnings calls",
+    "authors": "Katherine Keith and Amanda Stent",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 72
+  },
+  {
+    "title": "Dialogue Natural Language Inference",
+    "authors": "Sean Welleck, Jason Weston, Arthur Szlam and Kyunghyun Cho",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 73
+  },
+  {
+    "title": "Budgeted Policy Learning for Task-Oriented Dialogue Systems",
+    "authors": "Zhirui Zhang, Xiujun Li, Jianfeng Gao and Enhong Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 74
+  },
+  {
+    "title": "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis",
+    "authors": "Ruidan He, Wee Sun Lee, Hwee Tou Ng and Daniel Dahlmeier",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 75
+  },
+  {
+    "title": "Extracting Symptoms and their Status from Clinical Conversations",
+    "authors": "Nan Du, Kai Chen, Anjuli Kannan, Linh Tran, Yuhui Chen and Izhak Shafran",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 76
+  },
+  {
+    "title": "Comparison of Diverse Decoding Methods from Conditional Language Models",
+    "authors": "Daphne Ippolito, Reno Kriz, Joao Sedoc, Maria Kustikova and Chris Callison-Burch",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 77
+  },
+  {
+    "title": "Diachronic Sense Modeling with Deep Contextualized Word Embeddings: An Ecological View",
+    "authors": "Renfen Hu, Shen Li and Shichen Liang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 78
+  },
+  {
+    "title": "Retrieval-Enhanced Adversarial Training for Neural Response Generation",
+    "authors": "Qingfu Zhu, Lei Cui, Wei-Nan Zhang, Furu Wei and Ting Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 79
+  },
+  {
+    "title": "Argument Invention from First Principles",
+    "authors": "Yonatan Bilu, Ariel Gera, Daniel Hershcovich, Benjamin Sznajder, Dan Lahav, Guy Moshkowich, Anael Malet, Assaf Gavron and Noam Slonim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 80
+  },
+  {
+    "title": "ERNIE: Enhanced Language Representation with Informative Entities",
+    "authors": "Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun and Qun Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 81
+  },
+  {
+    "title": "Revisiting Joint Modeling of Cross-document Entity and Event Coreference Resolution",
+    "authors": "Shany Barhom, Vered Shwartz, Alon Eirew, Michael Bugert, Nils Reimers and Ido Dagan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 82
+  },
+  {
+    "title": "Cognitive Graph for Multi-Hop Reading Comprehension at Scale",
+    "authors": "Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang and Jie Tang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 83
+  },
+  {
+    "title": "Knowledge-aware Pronoun Coreference Resolution",
+    "authors": "Hongming Zhang, Yan Song, Yangqiu Song and Dong Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 84
+  },
+  {
+    "title": "Unsupervised Question Answering by Cloze Translation",
+    "authors": "Patrick Lewis, Ludovic Denoyer and Sebastian Riedel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 85
+  },
+  {
+    "title": "SP-10K: A Large-scale Evaluation Set for Selectional Preference Acquisition",
+    "authors": "Hongming Zhang, Hantian Ding and Yangqiu Song",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 86
+  },
+  {
+    "title": "Vocabulary Pyramid Network: Multi-Pass Encoding and Decoding with Multi-Level Vocabularies for Response Generation",
+    "authors": "Cao Liu, Shizhu He, Kang Liu and Jun Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 87
+  },
+  {
+    "title": "Complex Question Decomposition for Semantic Parsing",
+    "authors": "Haoyu Zhang, Jingjing Cai, Jianjun Xu and Ji Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 88
+  },
+  {
+    "title": "A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains",
+    "authors": "Dominik Schlechtweg, Anna Hätty, Marco Del Tredici and Sabine Schulte im Walde",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 89
+  },
+  {
+    "title": "Miss Tools and Mr Fruit: Emergent communication in agents learning about object affordances",
+    "authors": "Diane Bouchacourt and Marco Baroni",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 90
+  },
+  {
+    "title": "Detecting Subevents using Discourse and Narrative Features",
+    "authors": "Mohammed Aldawsari and Mark Finlayson",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 91
+  },
+  {
+    "title": "Sentence Centrality Revisited for Unsupervised Summarization",
+    "authors": "Hao Zheng and Mirella Lapata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 92
+  },
+  {
+    "title": "Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems",
+    "authors": "Chien-Sheng Wu, Andrea Madotto, Ehsan Hosseini-Asl, Caiming Xiong, Richard Socher and Pascale Fung",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 93
+  },
+  {
+    "title": "Errudite: Scalable, Reproducible, and Testable Error Analysis",
+    "authors": "Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer and Daniel Weld",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 94
+  },
+  {
+    "title": "Multi-Hop Paragraph Retrieval for Open-Domain Question Answering",
+    "authors": "Yair Feldman and Ran El-Yaniv",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 95
+  },
+  {
+    "title": "Towards Understanding Linear Word Analogies",
+    "authors": "Kawin Ethayarajh, David Duvenaud and Graeme Hirst",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 96
+  },
+  {
+    "title": "Multilingual and Cross-Lingual Graded Lexical Entailment",
+    "authors": "Ivan Vulić, Simone Paolo Ponzetto and Goran Glavaš",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 97
+  },
+  {
+    "title": "When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion",
+    "authors": "Elena Voita, Rico Sennrich and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 98
+  },
+  {
+    "title": "The Language of Legal and Illegal Activity on the Darknet",
+    "authors": "Leshem Choshen, Dan Eldad, Daniel Hershcovich, Elior Sulem and Omri Abend",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 99
+  },
+  {
+    "title": "What Kind of Language Is Hard to Language-Model?",
+    "authors": "Sebastian J. Mielke, Ryan Cotterell, Kyle Gorman, Brian Roark and Jason Eisner",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 100
+  },
+  {
+    "title": "E3: Entailment-driven Extracting and Editing for Conversational Machine Reading",
+    "authors": "Victor Zhong and Luke Zettlemoyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 101
+  },
+  {
+    "title": "Analysis of Automatic Annotation Suggestions for Hard Discourse-Level Tasks in Expert Domains",
+    "authors": "Claudia Schulz, Christian M. Meyer, Jan Kiesewetter, Michael Sailer, Elisabeth Bauer, Martin R. Fischer, Frank Fischer and Iryna Gurevych",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 102
+  },
+  {
+    "title": "What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations",
+    "authors": "Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow and Rada Mihalcea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 103
+  },
+  {
+    "title": "A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction",
+    "authors": "Mengjie Zhao and Hinrich Schütze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 104
+  },
+  {
+    "title": "LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories",
+    "authors": "Ignacio Iacobacci and Roberto Navigli",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 105
+  },
+  {
+    "title": "Word-order biases in deep-agent emergent communication",
+    "authors": "Rahma Chaabouni, Evgeny Kharitonov, Alessandro Lazaric, Emmanuel Dupoux and Marco Baroni",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 106
+  },
+  {
+    "title": "Generating Question-Answer Hierarchies",
+    "authors": "Kalpesh Krishna and Mohit Iyyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 107
+  },
+  {
+    "title": "A Compact and Language-Sensitive Multilingual Translation Method",
+    "authors": "Yining Wang, Long Zhou, Jiajun Zhang, Feifei Zhai, Jingfang Xu and Chengqing Zong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 108
+  },
+  {
+    "title": "Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction",
+    "authors": "Kosuke Nishida, Kyosuke Nishida, Masaaki Nagata, Atsushi Otsuka, Itsumi Saito, Hisako Asano and Junji Tomita",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 109
+  },
+  {
+    "title": "Discourse Representation Parsing for Sentences and Documents",
+    "authors": "Jiangming Liu, Shay B. Cohen and Mirella Lapata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 110
+  },
+  {
+    "title": "Enhance Topic-to-Essay Generation with External Commonsense Knowledge",
+    "authors": "Pengcheng Yang, Lei Li, Fuli Luo, Tianyu Liu and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 111
+  },
+  {
+    "title": "Entity-Relation Extraction as Multi-Turn Question Answering",
+    "authors": "Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou and Jiwei Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 112
+  },
+  {
+    "title": "Robust Neural Machine Translation with Doubly Adversarial Inputs",
+    "authors": "Yong Cheng, Lu Jiang and Wolfgang Macherey",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 113
+  },
+  {
+    "title": "Don't Take the Premise for Granted: Mitigating Artifacts in Natural Language Inference",
+    "authors": "Yonatan Belinkov, Adam Poliak, Stuart Shieber, Benjamin Van Durme and Alexander Rush",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 114
+  },
+  {
+    "title": "Improving Neural Language Models by Segmenting, Attending, and Predicting the Future",
+    "authors": "Hongyin Luo, Lan Jiang, Yonatan Belinkov and James Glass",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 115
+  },
+  {
+    "title": "A Corpus for Reasoning About Natural Language Grounded in Photographs",
+    "authors": "Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai and Yoav Artzi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 116
+  },
+  {
+    "title": "Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning",
+    "authors": "Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu and Xuanjing Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 117
+  },
+  {
+    "title": "Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition",
+    "authors": "Joey Tianyi Zhou, Hao Zhang, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 118
+  },
+  {
+    "title": "Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data",
+    "authors": "Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 119
+  },
+  {
+    "title": "Topic-Aware Neural Keyphrase Generation for Social Media Language",
+    "authors": "Yue Wang, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu and Shuming Shi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 120
+  },
+  {
+    "title": "Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs",
+    "authors": "Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He and Bowen Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 121
+  },
+  {
+    "title": "Distilling Discrimination and Generalization Knowledge for Event Detection via Delta-Representation Learning",
+    "authors": "Yaojie Lu, Hongyu Lin, Xianpei Han and Le Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 122
+  },
+  {
+    "title": "Neural Relation Extraction for Knowledge Base Enrichment",
+    "authors": "Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi and Rui Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 123
+  },
+  {
+    "title": "Visually Grounded Neural Syntax Acquisition",
+    "authors": "Haoyue Shi, Jiayuan Mao, Kevin Gimpel and Karen Livescu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 124
+  },
+  {
+    "title": "Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data",
+    "authors": "Moonsu Han, Minki Kang, Hyunwoo Jung and Sung Ju Hwang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 125
+  },
+  {
+    "title": "On the Robustness of Self-Attentive Models",
+    "authors": "Yu-Lun Hsieh, Minhao Cheng, Da-Cheng Juan, wei wei, Wen-Lian Hsu and Cho-Jui Hsieh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 126
+  },
+  {
+    "title": "Multimodal Transformer for Unaligned Multimodal Language Sequences",
+    "authors": "Yao-Hung Hubert Tsai, Shaojie Bai, Paul Pu Liang, J. Zico Kolter, Louis-Philippe Morency and Ruslan Salakhutdinov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 127
+  },
+  {
+    "title": "Joint Type Inference on Entities and Relations via Graph Convolutional Networks",
+    "authors": "Changzhi Sun, Yeyun Gong, Yuanbin Wu, Ming Gong, Daxin Jiang, Man Lan, Shiliang Sun and Nan Duan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 128
+  },
+  {
+    "title": "Decompositional Argument Mining: A General Purpose Approach for Argument Graph Construction",
+    "authors": "Debela Gemechu and Chris Reed",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 129
+  },
+  {
+    "title": "DIAG-NRE: A Neural Pattern Diagnosis Framework for Distantly Supervised Neural Relation Extraction",
+    "authors": "Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu and Wei Xu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 130
+  },
+  {
+    "title": "Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension",
+    "authors": "An Yang, Quan Wang, Jing Liu, KAI LIU, Yajuan Lyu, Hua Wu, Qiaoqiao She and Sujian Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 131
+  },
+  {
+    "title": "Learning Transferable Feature Representations Using Neural Networks",
+    "authors": "Himanshu Sharad Bhatt, Shourya Roy, Arun Rajkumar and Sriranjani Ramakrishnan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 132
+  },
+  {
+    "title": "Understanding Undesirable Word Embedding Associations",
+    "authors": "Kawin Ethayarajh, David Duvenaud and Graeme Hirst",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 133
+  },
+  {
+    "title": "Exploring Sequence-to-Sequence Learning in Aspect Term Extraction",
+    "authors": "Dehong Ma, Sujian Li, Fangzhao Wu, Xing Xie and Houfeng WANG",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 134
+  },
+  {
+    "title": "Towards Fine-grained Text Sentiment Transfer",
+    "authors": "Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 135
+  },
+  {
+    "title": "MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations",
+    "authors": "Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, Gautam Naik, Erik Cambria and Rada Mihalcea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 136
+  },
+  {
+    "title": "Inducing Document Structure for Aspect-based Summarization",
+    "authors": "Lea Frermann and Alexandre Klementiev",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 137
+  },
+  {
+    "title": "GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification",
+    "authors": "Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 138
+  },
+  {
+    "title": "Shared-Private Bilingual Word Embeddings for Neural Machine Translation",
+    "authors": "Xuebo Liu, Derek F. Wong, Yang Liu, Lidia S. Chao, Tong Xiao and Jingbo Zhu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 139
+  },
+  {
+    "title": "Relation Embedding with Dihedral Group in Knowledge Graph",
+    "authors": "Canran Xu and Ruijiang Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 140
+  },
+  {
+    "title": "Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network",
+    "authors": "Jingjing Wang, Changlong Sun, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang and Guodong Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 141
+  },
+  {
+    "title": "On-device Structured and Context Partitioned Projection Networks",
+    "authors": "Sujith Ravi and Zornitsa Kozareva",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 142
+  },
+  {
+    "title": "Multi-grained Named Entity Recognition",
+    "authors": "Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wu, Wei Fan, Fenglong Ma and Philip Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 143
+  },
+  {
+    "title": "What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues",
+    "authors": "Yu Qin and Yi Yang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 144
+  },
+  {
+    "title": "Unsupervised Parallel Sentence Extraction with Parallel Segment Detection Helps Machine Translation",
+    "authors": "Viktor Hangya and Alexander Fraser",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 145
+  },
+  {
+    "title": "Empirical Linguistic Study of Sentence Embeddings",
+    "authors": "Katarzyna Krasnowska-Kieraś and Alina Wróblewska",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 146
+  },
+  {
+    "title": "Multilingual Factor Analysis",
+    "authors": "Francisco Vargas, Kamen Brestnichki, Alex Papadopoulos Korfiatis and Nils Hammerla",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 147
+  },
+  {
+    "title": "Is Word Segmentation Necessary for Deep Learning of Chinese Representations?",
+    "authors": "Xiaoya Li, Yuxian Meng, Xiaofei Sun, Qinghong Han, Arianna Yuan and Jiwei Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 148
+  },
+  {
+    "title": "Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling",
+    "authors": "Yifan Gao, Piji Li, Irwin King and Michael R. Lyu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 149
+  },
+  {
+    "title": "A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy",
+    "authors": "Genady Beryozkin, Yoel Drori, Oren Gilon, Tzvika Hartman and Idan Szpektor",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 150
+  },
+  {
+    "title": "Data-to-text Generation with Entity Modeling",
+    "authors": "Ratish Puduppully, Li Dong and Mirella Lapata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 151
+  },
+  {
+    "title": "DocRED: A Large-Scale Document-Level Relation Extraction Dataset",
+    "authors": "Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 152
+  },
+  {
+    "title": "Text Categorization by Learning Predominant Sense of Words as Auxiliary Task",
+    "authors": "Kazuya Shimura, Jiyi Li and Fumiyo Fukumoto",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 153
+  },
+  {
+    "title": "Attention Guided Graph Convolutional Networks for Relation Extraction",
+    "authors": "Zhijiang Guo, Yan Zhang and Wei Lu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 154
+  },
+  {
+    "title": "Unsupervised Bilingual Word Embedding Agreement for Unsupervised Neural Machine Translation",
+    "authors": "Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita and Tiejun Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 155
+  },
+  {
+    "title": "XQA: A Cross-lingual Open-domain Question Answering Dataset",
+    "authors": "Jiahua Liu, Yankai Lin, Zhiyuan Liu and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 156
+  },
+  {
+    "title": "MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension",
+    "authors": "Alon Talmor and Jonathan Berant",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 157
+  },
+  {
+    "title": "Proactive Human-Machine Conversation with Explicit Conversation Goal",
+    "authors": "Wenquan Wu, Zhen Guo, Xiangyang Zhou, Hua Wu, Xiyuan Zhang, Rongzhong Lian and Haifeng Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 158
+  },
+  {
+    "title": "Neural Machine Translation with Reordering Embeddings",
+    "authors": "Kehai Chen, Rui Wang, Masao Utiyama and Eiichiro Sumita",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 159
+  },
+  {
+    "title": "Cross-Lingual Training for Automatic Question Generation",
+    "authors": "vishwajeet kumar, Nitish Joshi, Arijit Mukherjee, Ganesh Ramakrishnan and Preethi Jyothi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 160
+  },
+  {
+    "title": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification",
+    "authors": "Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li and Yiwei Lv",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 161
+  },
+  {
+    "title": "BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization",
+    "authors": "Kai Wang, Xiaojun Quan and Rui Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 162
+  },
+  {
+    "title": "Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies",
+    "authors": "Shuhei Kurita and Anders Søgaard",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 163
+  },
+  {
+    "title": "GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling",
+    "authors": "Yijin Liu, Fandong Meng, Jinchao Zhang, Jinan Xu, Yufeng Chen and Jie Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 164
+  },
+  {
+    "title": "Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems",
+    "authors": "Jiazhan Feng, Chongyang Tao, wei wu, Yansong Feng, Dongyan Zhao and Rui Yan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 165
+  },
+  {
+    "title": "Hierarchical Transformers for Multi-Document Summarization",
+    "authors": "Yang Liu and Mirella Lapata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 166
+  },
+  {
+    "title": "A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer",
+    "authors": "Chen Wu, Xuancheng Ren, Fuli Luo and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 167
+  },
+  {
+    "title": "GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction",
+    "authors": "Tsu-Jui Fu, Peng-Hsuan Li and Wei-Yun Ma",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 168
+  },
+  {
+    "title": "Learning to Abstract for Memory-augmented Conversational Response Generation",
+    "authors": "Zhiliang Tian, Wei Bi, Xiaopeng Li and Nevin L. Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 169
+  },
+  {
+    "title": "FIESTA: Fast IdEntification of State-of-The-Art models using adaptive bandit algorithms",
+    "authors": "Henry Moss, Andrew Moore, David Leslie and Paul Rayson",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 170
+  },
+  {
+    "title": "Transfer Capsule Network for Aspect Level Sentiment Classification",
+    "authors": "Zhuang Chen and Tieyun Qian",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 171
+  },
+  {
+    "title": "Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References",
+    "authors": "Lisong Qiu, Juntao Li, Wei Bi, Dongyan Zhao and Rui Yan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 172
+  },
+  {
+    "title": "Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums",
+    "authors": "Zi Chai, Xinyu Xing, Xiaojun Wan and Bo Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 173
+  },
+  {
+    "title": "Ensuring Readability and Data-fidelity using Head-modifier Templates in Deep Type Description Generation",
+    "authors": "Jiangjie Chen, Ao Wang, Haiyun Jiang, Suo Feng, Chenguang Li and Yanghua Xiao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 174
+  },
+  {
+    "title": "Simple and Effective Text Matching with Richer Alignment Features",
+    "authors": "Runqi Yang, Jianhai Zhang, Xing Gao, Feng Ji and Haiqing Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 175
+  },
+  {
+    "title": "Semantic Parsing with Dual Learning",
+    "authors": "Ruisheng Cao, Su Zhu, Chen Liu, Jieyu Li and Kai Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 176
+  },
+  {
+    "title": "ChID: A Large-scale Chinese IDiom Dataset for Cloze Test",
+    "authors": "Chujie Zheng, Minlie Huang and Aixin Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 177
+  },
+  {
+    "title": "Neural Fuzzy Repair: Integrating Fuzzy Matches into Neural Machine Translation",
+    "authors": "Bram Bulte and Arda Tezcan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 178
+  },
+  {
+    "title": "Are You Convinced? Choosing the More Convincing Evidence with a Siamese Network",
+    "authors": "Martin Gleize, Eyal Shnarch, Leshem Choshen, Lena Dankin, GUY MOSHKOWICH, Ranit Aharonov and Noam Slonim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 179
+  },
+  {
+    "title": "Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies",
+    "authors": "Yunsu Kim, Yingbo Gao and Hermann Ney",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 180
+  },
+  {
+    "title": "Towards Explainable NLP: A Generative Explanation Framework for Text Classification",
+    "authors": "Hui Liu, Qingyu Yin and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 181
+  },
+  {
+    "title": "Automatic Evaluation of Local Topic Quality",
+    "authors": "Jeffrey Lund, Piper Armstrong, Wilson Fearn, Stephen Cowley, Courtni Byun, Jordan Boyd-Graber and Kevin Seppi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 182
+  },
+  {
+    "title": "Self-Attentive, Multi-Context One-Class Classification for Unsupervised Anomaly Detection on Text",
+    "authors": "Lukas Ruff, Yury Zemlyanskiy, Robert Vandermeulen, Thomas Schnake and Marius Kloft",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 183
+  },
+  {
+    "title": "Are we there yet? Encoder-decoder neural networks as cognitive models of English past tense inflection",
+    "authors": "Maria Corkery, Yevgen Matusevych and Sharon Goldwater",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 184
+  },
+  {
+    "title": "SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference",
+    "authors": "Martin Schmitt and Hinrich Schütze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 185
+  },
+  {
+    "title": "Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards",
+    "authors": "Hou Pong Chan, Wang Chen, Lu Wang and Irwin King",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 186
+  },
+  {
+    "title": "#YouToo? Detection of Personal Recollections of Sexual Harassment on Social Media",
+    "authors": "Arijit Ghosh Chowdhury, Ramit Sawhney, Rajiv Ratn Shah and Debanjan Mahata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 187
+  },
+  {
+    "title": "Generating Question Relevant Captions to Aid Visual Question Answering",
+    "authors": "Jialin Wu, Zeyuan Hu and Raymond Mooney",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 188
+  },
+  {
+    "title": "Improving the Robustness of Question Answering Systems to Question Paraphrasing",
+    "authors": "Wee Chung Gan and Hwee Tou Ng",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 189
+  },
+  {
+    "title": "Continual and Multi-Task Architecture Search",
+    "authors": "Ramakanth Pasunuru and Mohit Bansal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 190
+  },
+  {
+    "title": "Adversarial Learning of Privacy-Preserving Text Representations for De-Identification of Medical Records",
+    "authors": "Max Friedrich, Arne Köhn, Gregor Wiedemann and Chris Biemann",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 191
+  },
+  {
+    "title": "Crowdsourcing and Aggregating Nested Markable Annotations",
+    "authors": "Chris Madge, Juntao Yu, Jon Chamberlain, Udo Kruschwitz, Silviu Paun and Massimo Poesio",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 192
+  },
+  {
+    "title": "ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification",
+    "authors": "Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 193
+  },
+  {
+    "title": "The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue",
+    "authors": "Janosch Haber, Tim Baumgärtner, Ece Takmaz, Lieke Gelderloos, Elia Bruni and Raquel Fernández",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 194
+  },
+  {
+    "title": "Handling Divergent Reference Texts when Evaluating Table-to-Text Generation",
+    "authors": "Bhuwan Dhingra, Manaal Faruqui, Ankur Parikh, Ming-Wei Chang, Dipanjan Das and William Cohen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 195
+  },
+  {
+    "title": "Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation",
+    "authors": "Shuming Ma, Pengcheng Yang, Tianyu Liu, Peng Li, Jie Zhou and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 196
+  },
+  {
+    "title": "Sparse Sequence-to-Sequence Models",
+    "authors": "Ben Peters, Vlad Niculae and André F. T. Martins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 197
+  },
+  {
+    "title": "Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs",
+    "authors": "Deepak Nathani, Jatin Chauhan, Charu Sharma and Manohar Kaul",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 198
+  },
+  {
+    "title": "Morphological Irregularity Correlates with Frequency",
+    "authors": "Shijie Wu, Ryan Cotterell and Timothy O'Donnell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 199
+  },
+  {
+    "title": "On the Compositionality Prediction of Noun Phrases using Poincaré Embeddings",
+    "authors": "Abhik Jana, Dima Puzyrev, Alexander Panchenko, Pawan Goyal, Chris Biemann and Animesh Mukherjee",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 200
+  },
+  {
+    "title": "Robust Representation Learning of Biomedical Names",
+    "authors": "Minh C. Phan, Aixin Sun and Yi Tay",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 201
+  },
+  {
+    "title": "Semantic expressive capacity with bounded memory",
+    "authors": "Antoine Venant and Alexander Koller",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 202
+  },
+  {
+    "title": "Abstractive text summarization based on deep learning and semantic content generalization",
+    "authors": "Panagiotis Kouris, Georgios Alexandridis and Andreas Stafylopatis",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 203
+  },
+  {
+    "title": "Pretraining Methods for Dialog Context Representation Learning",
+    "authors": "Shikib Mehri, Evgeniia Razumovskaia, Tiancheng Zhao and Maxine Eskenazi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 204
+  },
+  {
+    "title": "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech",
+    "authors": "Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 205
+  },
+  {
+    "title": "Correlating neural and symbolic representations of language",
+    "authors": "Grzegorz Chrupała and Afra Alishahi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 206
+  },
+  {
+    "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",
+    "authors": "Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 207
+  },
+  {
+    "title": "Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension",
+    "authors": "Yichen Jiang, Nitish Joshi, Yen-Chun Chen and Mohit Bansal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 208
+  },
+  {
+    "title": "Low-resource Deep Entity Resolution with Transfer and Active Learning",
+    "authors": "Jungo Kasai, Kun Qian, Sairam Gurajada, Yunyao Li and Lucian Popa",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 209
+  },
+  {
+    "title": "A Large-Scale Corpus for Conversation Disentanglement",
+    "authors": "Jonathan K. Kummerfeld, Sai R. Gouravajhala, Joseph J. Peper, Vignesh Athreya, Chulaka Gunasekara, Jatin Ganhotra, Siva Sankalp Patel, Lazaros C Polymenakos and Walter Lasecki",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 210
+  },
+  {
+    "title": "Hubless Nearest Neighbor Search for Bilingual Lexicon Induction",
+    "authors": "Jiaji Huang, Qiang Qiu and Kenneth Church",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 211
+  },
+  {
+    "title": "A Cross-Domain Transferable Neural Coherence Model",
+    "authors": "Peng Xu, Hamidreza Saghir, Jin Sung Kang, Teng Long, Avishek Joey Bose, Yanshuai Cao and Jackie Chi Kit Cheung",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 212
+  },
+  {
+    "title": "Zero-Shot Entity Linking by Reading Entity Descriptions",
+    "authors": "Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 213
+  },
+  {
+    "title": "Detecting Concealed Information in Text and Speech",
+    "authors": "Shengli Hu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 214
+  },
+  {
+    "title": "Zero-shot Word Sense Disambiguation using Sense Definition Embeddings",
+    "authors": "Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 215
+  },
+  {
+    "title": "Unsupervised Neural Text Simplification",
+    "authors": "Sai Surya, Abhijit Mishra, Anirban Laha, Parag Jain and Karthik Sankaranarayanan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 216
+  },
+  {
+    "title": "Self-Supervised Dialogue Learning",
+    "authors": "Jiawei Wu, Xin Wang and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 217
+  },
+  {
+    "title": "Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge",
+    "authors": "Ziran Li, Ning Ding, Zhiyuan Liu, Haitao Zheng and Ying Shen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 218
+  },
+  {
+    "title": "Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling",
+    "authors": "Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas Mccoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick and Samuel R. Bowman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 219
+  },
+  {
+    "title": "Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming",
+    "authors": "Caio Corro and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 220
+  },
+  {
+    "title": "Evidence-based Trustworthiness",
+    "authors": "Yi Zhang, Zachary Ives and Dan Roth",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 221
+  },
+  {
+    "title": "ELI5: Long Form Question Answering",
+    "authors": "Angela Fan, Yacine Jernite, Ethan Perez, David Grangier, Jason Weston and Michael Auli",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 222
+  },
+  {
+    "title": "Fine-Grained Temporal Relation Extraction",
+    "authors": "Siddharth Vashishtha, Benjamin Van Durme and Aaron Steven White",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 223
+  },
+  {
+    "title": "Distant Learning for Entity Linking with Automatic Noise Detection",
+    "authors": "Phong Le and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 224
+  },
+  {
+    "title": "AMR Parsing as Sequence-to-Graph Transduction",
+    "authors": "Sheng Zhang, Xutai Ma, Kevin Duh and Benjamin Van Durme",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 225
+  },
+  {
+    "title": "Boosting Entity Linking Performance by Leveraging Unlabeled Documents",
+    "authors": "Phong Le and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 226
+  },
+  {
+    "title": "Gender-preserving Debiasing for Pre-trained Word Embeddings",
+    "authors": "Masahiro Kaneko and Danushka Bollegala",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 227
+  },
+  {
+    "title": "Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text",
+    "authors": "Bidisha Samanta, Niloy Ganguly and Soumen Chakrabarti",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 228
+  },
+  {
+    "title": "Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis",
+    "authors": "Jialong Tang, Ziyao Lu, Jinsong SU, Yubin Ge, Linfeng Song, Le Sun and Jiebo Luo",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 229
+  },
+  {
+    "title": "End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories",
+    "authors": "Rui Mao, Chenghua Lin and Frank Guerin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 230
+  },
+  {
+    "title": "Like a Baby: Visually Situated Neural Language Acquisition",
+    "authors": "Alexander Ororbia, Ankur Mali, Matthew Kelly and David Reitter",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 231
+  },
+  {
+    "title": "Learning to Discover, Ground and Use Words with Segmental Neural Language Models",
+    "authors": "Kazuya Kawakami, Chris Dyer and Phil Blunsom",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 232
+  },
+  {
+    "title": "Relational Word Embeddings",
+    "authors": "Jose Camacho-Collados, Luis Espinosa Anke and Steven Schockaert",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 233
+  },
+  {
+    "title": "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context",
+    "authors": "Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc Le and Ruslan Salakhutdinov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 234
+  },
+  {
+    "title": "Optimal Transport-based Alignment of Learned Character Representations for String Similarity",
+    "authors": "Derek Tam, Nicholas Monath, Ari Kobren, Aaron Traylor, Rajarshi Das and Andrew McCallum",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 235
+  },
+  {
+    "title": "Exploring Pre-trained Language Models for Event Extraction and Generation",
+    "authors": "Sen Yang, Dawei Feng, Linbo Qiao, Zhigang Kan and Dongsheng Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 236
+  },
+  {
+    "title": "What should I ask? Using conversationally informative rewards for goal-oriented visual dialog.",
+    "authors": "pushkar shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 237
+  },
+  {
+    "title": "Syntax-Infused Variational Autoencoder for Text Generation",
+    "authors": "Xinyuan Zhang, Yi Yang, Siyang Yuan, Dinghan Shen and Lawrence Carin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 238
+  },
+  {
+    "title": "Generating Logical Forms from Graph Representations of Text and Entities",
+    "authors": "Peter Shaw, Philip Massey, Angelica Chen, Francesco Piccinno and Yasemin Altun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 239
+  },
+  {
+    "title": "Interpretable Neural Predictions with Differentiable Binary Variables",
+    "authors": "Joost Bastings, Wilker Aziz and Ivan Titov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 240
+  },
+  {
+    "title": "RankQA: Neural Question Answering with Answer Re-Ranking",
+    "authors": "Bernhard Kratzwald, Anna Eigenmann and Stefan Feuerriegel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 241
+  },
+  {
+    "title": "Self-Regulated Interactive Sequence-to-Sequence Learning",
+    "authors": "Julia Kreutzer and Stefan Riezler",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 242
+  },
+  {
+    "title": "Symbolic inductive bias for visually grounded learning of spoken language",
+    "authors": "Grzegorz Chrupała",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 243
+  },
+  {
+    "title": "Merge and Label: A novel neural network architecture for nested NER",
+    "authors": "Joseph Fisher and Andreas Vlachos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 244
+  },
+  {
+    "title": "Classification and Clustering of Arguments with Contextualized Word Embeddings",
+    "authors": "Nils Reimers, Benjamin Schiller, Tilman Beck, Johannes Daxenberger, Christian Stab and Iryna Gurevych",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 245
+  },
+  {
+    "title": "A Spreading Activation Framework for Tracking Conceptual Complexity of Texts",
+    "authors": "Ioana Hulpuș, Sanja Štajner and Heiner Stuckenschmidt",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 246
+  },
+  {
+    "title": "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+    "authors": "Tom McCoy, Ellie Pavlick and Tal Linzen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 247
+  },
+  {
+    "title": "Bridging the Gap between Training and Inference for Neural Machine Translation",
+    "authors": "Wen Zhang, Yang Feng, Fandong Meng, Di You and Qun Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 248
+  },
+  {
+    "title": "Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning",
+    "authors": "Edwin Simpson, Erik-Lân Do Dinh, Tristan Miller and Iryna Gurevych",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 249
+  },
+  {
+    "title": "A Simple Theoretical Model of Importance for Summarization",
+    "authors": "Maxime Peyrard",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 250
+  },
+  {
+    "title": "Relating Simple Sentence Representations in Deep Neural Networks and the Brain",
+    "authors": "Sharmistha Jat, Hao Tang, Partha Talukdar and Tom Mitchell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 251
+  },
+  {
+    "title": "Spatial Aggregation Facilitates Discovery of Spatial Topics",
+    "authors": "Aniruddha Maiti and Slobodan Vucetic",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 252
+  },
+  {
+    "title": "Argument Generation with Retrieval, Planning, and Realization",
+    "authors": "Xinyu Hua, Zhe Hu and Lu Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 253
+  },
+  {
+    "title": "Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations",
+    "authors": "Jiatao Gu, Yong Wang, Kyunghyun Cho and Victor O.K. Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 254
+  },
+  {
+    "title": "The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers",
+    "authors": "Agnieszka Falenska and Jonas Kuhn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 255
+  },
+  {
+    "title": "Strategies for Structuring Story Generation",
+    "authors": "Angela Fan, Mike Lewis and Yann Dauphin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 256
+  },
+  {
+    "title": "Learning Compressed Sentence Representations for On-Device Text Processing",
+    "authors": "Dinghan Shen, Pengyu Cheng, Dhanasekar Sundararaman, Xinyuan Zhang, Qian Yang, Meng Tang, Asli Celikyilmaz and Lawrence Carin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 257
+  },
+  {
+    "title": "Multi-task Pairwise Neural Ranking for Hashtag Segmentation",
+    "authors": "Mounica Maddela, Wei Xu and Daniel Preoţiuc-Pietro",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 258
+  },
+  {
+    "title": "Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models",
+    "authors": "Dinghan Shen, Asli Celikyilmaz, Yizhe Zhang, Liqun Chen, Xin Wang, Jianfeng Gao and Lawrence Carin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 259
+  },
+  {
+    "title": "Using LSTMs to Assess the Obligatoriness of Phonological Distinctive Features for Phonotactic Learning",
+    "authors": "Nicole Mirea and Klinton Bicknell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 260
+  },
+  {
+    "title": "Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes",
+    "authors": "Jie Cao, Michael Tanana, Zac Imel, Eric Poitras, David Atkins and Vivek Srikumar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 261
+  },
+  {
+    "title": "Entity-Centric Contextual Affective Analysis",
+    "authors": "Anjalie Field and Yulia Tsvetkov",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 262
+  },
+  {
+    "title": "Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog",
+    "authors": "Zhe Gan, Yu Cheng, Ahmed Kholy, Linjie Li, Jingjing Liu and Jianfeng Gao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 263
+  },
+  {
+    "title": "Lattice Transformer for Speech Translation",
+    "authors": "Pei Zhang, Niyu Ge, Boxing Chen and Kai Fan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 264
+  },
+  {
+    "title": "Generalized Data Augmentation for Low-Resource Translation",
+    "authors": "Mengzhou Xia, Xiang Kong, Antonios Anastasopoulos and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 265
+  },
+  {
+    "title": "Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation",
+    "authors": "Daniel Loureiro and Alípio Jorge",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 266
+  },
+  {
+    "title": "Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings",
+    "authors": "Yadollah Yaghoobzadeh, Katharina Kann, T. J. Hazen, Eneko Agirre and Hinrich Schütze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 267
+  },
+  {
+    "title": "Multi-Task Learning for Coherence Modeling",
+    "authors": "Youmna Farag and Helen Yannakoudakis",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 268
+  },
+  {
+    "title": "One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues",
+    "authors": "Chongyang Tao, wei wu, Can Xu, Wenpeng Hu, Dongyan Zhao and Rui Yan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 269
+  },
+  {
+    "title": "Disentangled Representation Learning for Non-Parallel Text Style Transfer",
+    "authors": "Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 270
+  },
+  {
+    "title": "HighRES: Highlight-based Reference-less Evaluation of Summarization",
+    "authors": "Hardy Hardy, Shashi Narayan and Andreas Vlachos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 271
+  },
+  {
+    "title": "Unraveling Antonym's Word Vectors through a Siamese-like Network",
+    "authors": "Mathias Etcheverry and Dina Wonsever",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 272
+  },
+  {
+    "title": "Latent Retrieval for Weakly Supervised Open Domain Question Answering",
+    "authors": "Kenton Lee, Ming-Wei Chang and Kristina Toutanova",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 273
+  },
+  {
+    "title": "Unsupervised Multilingual Word Embedding with Limited Resources using Neural Language Models",
+    "authors": "Takashi Wada, Tomoharu Iwata and Yuji Matsumoto",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 274
+  },
+  {
+    "title": "Improving Textual Network Embedding with Global Attention via Optimal Transport",
+    "authors": "Liqun Chen, Guoyin Wang, Chenyang Tao, Dinghan Shen, Pengyu Cheng, Xinyuan Zhang, Wenlin Wang, Yizhe Zhang and Lawrence Carin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 275
+  },
+  {
+    "title": "Sentiment Tagging with Partial Labels using Modular Architectures",
+    "authors": "Xiao Zhang and Dan Goldwasser",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 276
+  },
+  {
+    "title": "Open Domain Event Extraction Using Neural Latent Variable Models",
+    "authors": "Xiao Liu, Heyan Huang and Yue Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 277
+  },
+  {
+    "title": "Choosing Transfer Languages for Cross-Lingual Learning",
+    "authors": "Yu-Hsiang Lin, Chian-Yu Chen, Jean Lee, Zirui Li, Yuyan Zhang, Mengzhou Xia, Shruti Rijhwani, Junxian He, Zhisong Zhang, Xuezhe Ma, Antonios Anastasopoulos, Patrick Littell and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 278
+  },
+  {
+    "title": "Unsupervised Discovery of Gendered Language through Latent-Variable Modeling",
+    "authors": "Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 279
+  },
+  {
+    "title": "Informative Image Captioning with External Sources of Information",
+    "authors": "Sanqiang Zhao, Piyush Sharma, Tomer Levinboim and Radu Soricut",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 280
+  },
+  {
+    "title": "Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks",
+    "authors": "Hongyu Lin, Yaojie Lu, Xianpei Han and Le Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 281
+  },
+  {
+    "title": "Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives",
+    "authors": "Yi Tay, Shuohang Wang, Anh Tuan Luu, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui and Aston Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 282
+  },
+  {
+    "title": "Neural Network Alignment for Sentential Paraphrases",
+    "authors": "Jessica Ouyang and Kathy McKeown",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 283
+  },
+  {
+    "title": "A Unified Linear-Time Framework for Sentence-Level Discourse Parsing",
+    "authors": "Xiang Lin, Shafiq Joty, Prathyusha Jwalapuram and M Saiful Bari",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 284
+  },
+  {
+    "title": "Literary Event Detection",
+    "authors": "Matthew Sims, Jong Ho Park and David Bamman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 285
+  },
+  {
+    "title": "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication",
+    "authors": "Jin-Hwa Kim, Nikita Kitaev, Xinlei Chen, Marcus Rohrbach, Byoung-Tak Zhang, Yuandong Tian, Dhruv Batra and Devi Parikh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 286
+  },
+  {
+    "title": "Syntactically Supervised Transformers for Faster Neural Machine Translation",
+    "authors": "Nader Akoury, Kalpesh Krishna and Mohit Iyyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 287
+  },
+  {
+    "title": "Duality of Link Prediction and Entailment Graph Induction",
+    "authors": "Mohammad Javad Hosseini, Shay B. Cohen, Mark Johnson and Mark Steedman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 288
+  },
+  {
+    "title": "Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks",
+    "authors": "Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu and Siu Cheung Hui",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 289
+  },
+  {
+    "title": "Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks",
+    "authors": "Jing Ma, Wei Gao, Shafiq Joty and Kam-Fai Wong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 290
+  },
+  {
+    "title": "Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction",
+    "authors": "Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin and Debasis Ganguly",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 291
+  },
+  {
+    "title": "Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset",
+    "authors": "Hannah Rashkin, Eric Michael Smith, Margaret Li and Y-Lan Boureau",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 292
+  },
+  {
+    "title": "Predicting Human Activities from User-Generated Content",
+    "authors": "Steven Wilson and Rada Mihalcea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 293
+  },
+  {
+    "title": "Scaling Up Open Tagging from Tens to Thousands: Comprehension Empowered Attribute Value Extraction from Product Title",
+    "authors": "Huimin Xu, Wenting Wang, Xin Mao, Xinyu Jiang and Man Lan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 294
+  },
+  {
+    "title": "Multi-hop Reading Comprehension through Question Decomposition and Rescoring",
+    "authors": "Sewon Min, Victor Zhong, Luke Zettlemoyer and Hannaneh Hajishirzi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 295
+  },
+  {
+    "title": "Incremental Transformer with Deliberation Decoder for Document Grounded Conversations",
+    "authors": "Zekang Li, Cheng Niu, Fandong Meng, Yang Feng, Qian Li and Jie Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 296
+  },
+  {
+    "title": "Matching the Blanks: Distributional Similarity for Relation Learning",
+    "authors": "Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 297
+  },
+  {
+    "title": "Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation",
+    "authors": "Vihan Jain, Gabriel Magalhaes, Alexander Ku, Ashish Vaswani, Eugene Ie and Jason Baldridge",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 298
+  },
+  {
+    "title": "Compound Probabilistic Context-Free Grammars for Grammar Induction",
+    "authors": "Yoon Kim, Chris Dyer and Alexander Rush",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 299
+  },
+  {
+    "title": "Jointly Learning Semantic Parser and Natural Language Generator via Dual Information Maximization",
+    "authors": "Hai Ye, Wenjie Li and Lu Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 300
+  },
+  {
+    "title": "Accelerating Sparse Matrix Operations in Neural Networks on Graphics Processing Units",
+    "authors": "Arturo Argueta and David Chiang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 301
+  },
+  {
+    "title": "Combining Knowledge Hunting and Neural Language Models to Solve the Winograd Schema Challenge",
+    "authors": "Ashok Prakash, Arpit Sharma, Arindam Mitra and Chitta Baral",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 302
+  },
+  {
+    "title": "HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization",
+    "authors": "Xingxing Zhang, Furu Wei and Ming Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 303
+  },
+  {
+    "title": "Multi-Task Deep Neural Networks for Natural Language Understanding",
+    "authors": "Xiaodong Liu, Pengcheng He, Weizhu Chen and Jianfeng Gao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 304
+  },
+  {
+    "title": "DisSent: Learning Sentence Representations from Explicit Discourse Relations",
+    "authors": "Allen Nie, Erin Bennett and Noah Goodman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 305
+  },
+  {
+    "title": "Massively Multilingual Transfer for NER",
+    "authors": "Afshin Rahimi, Yuan Li and Trevor Cohn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 306
+  },
+  {
+    "title": "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction",
+    "authors": "Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Celikyilmaz and Yejin Choi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 307
+  },
+  {
+    "title": "Unsupervised Pivot Translation for Distant Languages",
+    "authors": "Yichong Leng, Xu Tan, Tao QIN, Xiang-Yang Li and Tie-Yan Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 308
+  },
+  {
+    "title": "CogNet: a Large-Scale Cognate Database",
+    "authors": "Khuyagbaatar Batsuren, Gabor Bella and Fausto Giunchiglia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 309
+  },
+  {
+    "title": "Semi-supervised Stochastic Multi-Domain Learning using Variational Inference",
+    "authors": "Yitong Li, Timothy Baldwin and Trevor Cohn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 310
+  },
+  {
+    "title": "Tree Communication Models for Sentiment Analysis",
+    "authors": "Yuan Zhang and Yue Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 311
+  },
+  {
+    "title": "Dynamically Composing Domain-Data Selection with Clean-Data Selection by ``Co-Curricular Learning\" for Neural Machine Translation",
+    "authors": "Wei Wang, Isaac Caswell and Ciprian Chelba",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 312
+  },
+  {
+    "title": "Modeling affirmative and negated action processing in the brain with lexical and compositional semantic models",
+    "authors": "Vesna Djokic, Jean Maillard, Luana Bulat and Ekaterina Shutova",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 313
+  },
+  {
+    "title": "Neural Temporality Adaptation for Document Classification: Diachronic Word Embeddings and Domain Adaptation Models",
+    "authors": "Xiaolei Huang and Michael J. Paul",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 314
+  },
+  {
+    "title": "Careful Selection of Knowledge to solve Open Book Question Answering",
+    "authors": "Pratyay Banerjee, Kuntal Kumar Pal, Arindam Mitra and Chitta Baral",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 315
+  },
+  {
+    "title": "Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations",
+    "authors": "Sumeet Kumar and Kathleen Carley",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 316
+  },
+  {
+    "title": "Learning to Select, Track, and Generate for Data-to-Text",
+    "authors": "Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji ARAMAKI, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki and Hiroya Takamura",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 317
+  },
+  {
+    "title": "Scoring Sentence Singletons and Pairs for Abstractive Summarization",
+    "authors": "Logan Lebanoff, Kaiqiang Song, Franck Dernoncourt, Doo Soon Kim, Seokhwan Kim, Walter Chang and Fei Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 318
+  },
+  {
+    "title": "SParC: Cross-Domain Semantic Parsing in Context",
+    "authors": "Tao Yu, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher and Dragomir Radev",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 319
+  },
+  {
+    "title": "Scalable Syntax-Aware Language Models Using Knowledge Distillation",
+    "authors": "Adhiguna Kuncoro, Chris Dyer, Laura Rimell, Stephen Clark and Phil Blunsom",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 320
+  },
+  {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": "Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi and Yejin Choi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 321
+  },
+  {
+    "title": "Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following",
+    "authors": "David Gaddy and Dan Klein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 322
+  },
+  {
+    "title": "Multi-Relational Script Learning for Discourse Relations",
+    "authors": "I-Ta Lee and Dan Goldwasser",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 323
+  },
+  {
+    "title": "EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing",
+    "authors": "Yue Dong, Zichao Li, Mehdi Rezagholizadeh and Jackie Chi Kit Cheung",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 324
+  },
+  {
+    "title": "Deep Neural Model Inspection and Comparison via Functional Neuron Pathways",
+    "authors": "James Fiacco, Samridhi Choudhary and Carolyn Rose",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 325
+  },
+  {
+    "title": "Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering",
+    "authors": "Peng Wu, Shujian Huang, Rongxiang Weng, Zaixiang Zheng, Jianbing Zhang, Xiaohui Yan and Jiajun CHEN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 326
+  },
+  {
+    "title": "Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks",
+    "authors": "Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya and Partha Talukdar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 327
+  },
+  {
+    "title": "Adversarial Multitask Learning for Joint Multi-Feature and Multi-Dialect Morphological Modeling",
+    "authors": "Nasser Zalmout and Nizar Habash",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 328
+  },
+  {
+    "title": "Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning",
+    "authors": "Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 329
+  },
+  {
+    "title": "Assessing the Ability of Self-Attention Networks to Learn Word Order",
+    "authors": "Baosong Yang, Longyue Wang, Derek F. Wong, Lidia S. Chao and Zhaopeng Tu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 330
+  },
+  {
+    "title": "The KnowRef Coreference Corpus: Removing Gender and Number Cues for Difficult Pronominal Anaphora Resolution",
+    "authors": "Ali Emami, Paul TRICHELAIR, Adam Trischler, Kaheer Suleman, Hannes Schulz and Jackie Chi Kit Cheung",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 331
+  },
+  {
+    "title": "Reinforced Dynamic Reasoning for Conversational Question Generation",
+    "authors": "Boyuan Pan, Hao Li, Ziyu Yao, Deng Cai and Huan Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 332
+  },
+  {
+    "title": "StRE: Self Attentive Edit Quality Prediction in Wikipedia",
+    "authors": "Soumya Sarkar, Bhanu Prakash Reddy, Sandipan Sikdar and Animesh Mukherjee",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 333
+  },
+  {
+    "title": "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization",
+    "authors": "Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 334
+  },
+  {
+    "title": "Dynamically Fused Graph Network for Multi-hop Reasoning",
+    "authors": "Lin Qiu, Yunxuan Xiao, Yanru Qu, Hao Zhou, Lei Li, Weinan Zhang and Yong Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 335
+  },
+  {
+    "title": "On the Word Alignment from Neural Machine Translation",
+    "authors": "Xintong Li, Guanlin Li, Lemao Liu, Max Meng and Shuming Shi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 336
+  },
+  {
+    "title": "Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Report",
+    "authors": "Baoyu Jing, Zeya Wang and Eric Xing",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 337
+  },
+  {
+    "title": "The Linguistic Development of Mental Health Counselors",
+    "authors": "Justine Zhang, Robert Filbin, Christine Morrison, Jaclyn Weiser and Cristian Danescu-Niculescu-Mizil",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 338
+  },
+  {
+    "title": "Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)",
+    "authors": "Santiago Castro, Devamanyu Hazarika, Verónica Pérez-Rosas, Roger Zimmermann, Rada Mihalcea and Soujanya Poria",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 339
+  },
+  {
+    "title": "Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG",
+    "authors": "Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 340
+  },
+  {
+    "title": "Variational Pretraining for Semi-supervised Text Classification",
+    "authors": "Suchin Gururangan, Tam Dang, Dallas Card and Noah A. Smith",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 341
+  },
+  {
+    "title": "Imitation Learning for Non-Autoregressive Neural Machine Translation",
+    "authors": "Bingzhen Wei, Mingxuan Wang, Hao Zhou, Junyang Lin and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 342
+  },
+  {
+    "title": "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks",
+    "authors": "Xinyu Wang, Jingxian Huang and Kewei Tu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 343
+  },
+  {
+    "title": "Automated Chess Commentator Powered by Neural Chess Engine",
+    "authors": "Hongyu Zang, Zhiwei Yu and Xiaojun Wan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 344
+  },
+  {
+    "title": "Domain Adaptive Dialog Generation via Meta Learning",
+    "authors": "Kun Qian and Zhou Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 345
+  },
+  {
+    "title": "Cross-Sentence Grammatical Error Correction",
+    "authors": "Shamil Chollampatt, Weiqi Wang and Hwee Tou Ng",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 346
+  },
+  {
+    "title": "Course Concept Expansion in MOOCs with External Knowledge and Interactive Game",
+    "authors": "Jifan Yu, Chenyu Wang, Gan Luo, Lei Hou, Juanzi Li, Zhiyuan Liu and Jie Tang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 347
+  },
+  {
+    "title": "Word and Document Embedding with vMF-Mixture Priors on Context Word Vectors",
+    "authors": "Shoaib Jameel and Steven Schockaert",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 348
+  },
+  {
+    "title": "Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA",
+    "authors": "Yichen Jiang and Mohit Bansal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 349
+  },
+  {
+    "title": "TWEETQA: A Social Media Focused Question Answering Dataset",
+    "authors": "Wenhan Xiong, Jiawei Wu, Hong Wang, Vivek Kulkarni, Mo Yu, Shiyu Chang, Xiaoxiao Guo and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 350
+  },
+  {
+    "title": "Is Attention Interpretable?",
+    "authors": "Sofia Serrano and Noah A. Smith",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 351
+  },
+  {
+    "title": "Exploiting Explicit Paths for Multi-hop Reading Comprehension",
+    "authors": "Souvik Kundu, Tushar Khot, Ashish Sabharwal and Peter Clark",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 352
+  },
+  {
+    "title": "Incorporating Priors with Feature Attribution on Text Classification",
+    "authors": "Frederick Liu and Besim Avci",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 353
+  },
+  {
+    "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+    "authors": "Nazneen Fatema Rajani, Bryan McCann, Caiming Xiong and Richard Socher",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 354
+  },
+  {
+    "title": "Sequence Tagging with Contextual and Non-Contextual Subword Representations: A Multilingual Evaluation",
+    "authors": "Benjamin Heinzerling and Michael Strube",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 355
+  },
+  {
+    "title": "Multimodal and Multi-view Models for Emotion Recognition",
+    "authors": "Gustavo Aguilar, Viktor Rozgic, Weiran Wang and Chao Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 356
+  },
+  {
+    "title": "Learning How to Active Learn by Dreaming",
+    "authors": "Thuy-Trang Vu, Ming Liu, Dinh Phung and Gholamreza Haffari",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 357
+  },
+  {
+    "title": "Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections",
+    "authors": "Junxian He, Zhisong Zhang, Taylor Berg-Kirkpatrick and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 358
+  },
+  {
+    "title": "Handling Domain Shift in Coreference Evaluation by Using Automatically Extracted Minimum Spans",
+    "authors": "Nafise Sadat Moosavi, Leo Born, Massimo Poesio and Michael Strube",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 359
+  },
+  {
+    "title": "Interpretable Question Answering on Knowledge Bases and Text",
+    "authors": "Alona Sydorova, Nina Poerner and Benjamin Roth",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 360
+  },
+  {
+    "title": "Sentence Mover's Similarity: Automatic Evaluation for Multi-Sentence Texts",
+    "authors": "Elizabeth Clark, Asli Celikyilmaz and Noah A. Smith",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 361
+  },
+  {
+    "title": "Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment",
+    "authors": "Siqi Bao, Huang He, Fan Wang, Rongzhong Lian and Hua Wu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 362
+  },
+  {
+    "title": "DeepSentiPeer: Harnessing Sentiment in Review Texts To Recommend Peer Review Decisions",
+    "authors": "Tirthankar Ghosal, Rajeev Verma, Asif Ekbal and Pushpak Bhattacharyya",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 363
+  },
+  {
+    "title": "Unified Semantic Parsing with Weak Supervision",
+    "authors": "Priyanka Agrawal, Ayushi Dalmia, Parag Jain, Abhishek Bansal, Ashish Mittal and Karthik Sankaranarayanan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 364
+  },
+  {
+    "title": "How Large Are Lions? Inducing Distributions over Quantitative Attributes",
+    "authors": "Yanai Elazar, Abhijit Mahabal, Deepak Ramachandran, Tania Bedrax-Weiss and Dan Roth",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 365
+  },
+  {
+    "title": "Combating Adversarial Misspellings with Robust Word Recognition",
+    "authors": "Danish Pruthi, Bhuwan Dhingra and Zachary C. Lipton",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 366
+  },
+  {
+    "title": "Barack's Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling",
+    "authors": "Robert Logan, Nelson F. Liu, Matthew E. Peters, Matt Gardner and Sameer Singh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 367
+  },
+  {
+    "title": "Unsupervised Learning of PCFGs with Normalizing Flow",
+    "authors": "Lifeng Jin, Finale Doshi-Velez, Timothy Miller, Lane Schwartz and William Schuler",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 368
+  },
+  {
+    "title": "Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation",
+    "authors": "Jiaqi Guo, Zecheng Zhan, Yan Gao, Yan Xiao, Jian-Guang LOU, Ting Liu and Dongmei Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 369
+  },
+  {
+    "title": "Variance of average surprisal: a better predictor for quality of grammar from unsupervised PCFG induction",
+    "authors": "Lifeng Jin and William Schuler",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 370
+  },
+  {
+    "title": "Training Neural Response Selection for Task-Oriented Dialogue Systems",
+    "authors": "Matthew Henderson, Ivan Vulić, Daniela Gerz, Iñigo Casanueva, Paweł Budzianowski, Sam Coope, Georgios Spithourakis, Tsung-Hsien Wen, Nikola Mrkšić and Pei-Hao Su",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 371
+  },
+  {
+    "title": "Cross-Domain NER using Cross-Domain Language Modeling",
+    "authors": "Chen Jia, Xiaobo Liang and Yue Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 372
+  },
+  {
+    "title": "Improving Multi-turn Dialogue Modelling with Utterance ReWriter",
+    "authors": "Hui Su, Xiaoyu Shen, Rongzhi Zhang, Fei Sun, Pengwei Hu, Cheng Niu and Jie Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 373
+  },
+  {
+    "title": "Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction",
+    "authors": "Christoph Alt, Marc Hübner and Leonhard Hennig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 374
+  },
+  {
+    "title": "Controllable Paraphrase Generation with a Syntactic Exemplar",
+    "authors": "Mingda Chen, Qingming Tang, Sam Wiseman and Kevin Gimpel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 375
+  },
+  {
+    "title": "Collaborative Dialogue in Minecraft",
+    "authors": "Anjali Narayan-Chen, Prashant Jayannavar and Julia Hockenmaier",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 376
+  },
+  {
+    "title": "Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading",
+    "authors": "Lianhui Qin, Michel Galley, Chris Brockett, Xiaodong Liu, Xiang Gao, Bill Dolan, Yejin Choi and Jianfeng Gao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 377
+  },
+  {
+    "title": "Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications",
+    "authors": "Wei Zhao, Haiyun Peng, Steffen Eger, Erik Cambria and Min Yang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 378
+  },
+  {
+    "title": "Decomposable Neural Paraphrase Generation",
+    "authors": "Zichao Li, Xin Jiang, Lifeng Shang and Qun Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 379
+  },
+  {
+    "title": "Incorporating Linguistic Constraints into Keyphrase Generation",
+    "authors": "Jing Zhao and Yuxiang Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 380
+  },
+  {
+    "title": "Few-Shot Representation Learning for Out-Of-Vocabulary Words",
+    "authors": "Ziniu Hu, Ting Chen, Kai-Wei Chang and Yizhou Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 381
+  },
+  {
+    "title": "An automated framework for fast cognate detection and Bayesian phylogenetic inference in computational historical linguistics",
+    "authors": "Taraka Rama and Johann-Mattis List",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 382
+  },
+  {
+    "title": "Determining Relative Argument Specificity and Stance for Complex Argumentative Structures",
+    "authors": "Esin Durmus, Faisal Ladhak and Claire Cardie",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 383
+  },
+  {
+    "title": "Learning Morphosyntactic Analyzers from the Bible via Iterative Annotation Projection across 26 Languages",
+    "authors": "Garrett Nicolai and David Yarowsky",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 384
+  },
+  {
+    "title": "Keeping Notes: Conditional Natural Language Generation with a Scratchpad Encoder",
+    "authors": "Ryan Benmalek, Madian Khabsa, Suma Desu, Claire Cardie and Michele Banko",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 385
+  },
+  {
+    "title": "Fine-Grained Sentence Functions for Short-Text Conversation",
+    "authors": "Wei Bi, Jun Gao, Xiaojiang Liu and Shuming Shi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 386
+  },
+  {
+    "title": "From Surrogacy to Adoption; From Bitcoin to Cryptocurrency: Debate Topic Expansion",
+    "authors": "Roy Bar-Haim, Dalia Krieger, Orith Toledo-Ronen, Lilach Edelstein, Yonatan Bilu, Alon Halfon, Yoav Katz, Amir Menczel, Ranit Aharonov and Noam Slonim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 387
+  },
+  {
+    "title": "Monotonic Infinite Lookback Attention for Simultaneous Machine Translation",
+    "authors": "Naveen Arivazhagan, Colin Cherry, Wolfgang Macherey, Chung-Cheng Chiu, Semih Yavuz, Ruoming Pang, Wei Li and Colin Raffel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 388
+  },
+  {
+    "title": "Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses",
+    "authors": "Étienne Simon, Vincent Guigue and Benjamin Piwowarski",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 389
+  },
+  {
+    "title": "Soft Representation Learning for Sparse Transfer",
+    "authors": "Haeju Park, Jinyoung Yeo, Gengyu Wang and Seung-won Hwang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 390
+  },
+  {
+    "title": "Word2Sense: Sparse Interpretable Word Embeddings",
+    "authors": "Abhishek Panigrahi, Harsha Vardhan Simhadri and Chiranjib Bhattacharyya",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 391
+  },
+  {
+    "title": "Domain Adaptation of Neural Machine Translation by Lexicon Induction",
+    "authors": "Junjie Hu, Mengzhou Xia, Graham Neubig and Jaime Carbonell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 392
+  },
+  {
+    "title": "EigenSent: Spectral sentence embeddings using higher-order Dynamic Mode Decomposition",
+    "authors": "Subhradeep Kayal and George Tsatsaronis",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 393
+  },
+  {
+    "title": "Multi-task Learning with Task, Group, and Universe Feature Learning",
+    "authors": "Shiva Pentyala, Mengwen Liu and Markus Dreyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 394
+  },
+  {
+    "title": "Automatically Identifying Complaints in Social Media",
+    "authors": "Daniel Preoţiuc-Pietro, Mihaela Gaman and Nikolaos Aletras",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 395
+  },
+  {
+    "title": "Matching Article Pairs with Graphical Decomposition and Convolutions",
+    "authors": "Bang Liu, Di Niu, Haojie Wei, Jinghong Lin, Yancheng He, Kunfeng Lai and Yu Xu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 396
+  },
+  {
+    "title": "Neural Decipherment via Minimum-Cost Flow: From Ugaritic to Linear B",
+    "authors": "Jiaming Luo, Yuan Cao and Regina Barzilay",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 397
+  },
+  {
+    "title": "Exploiting Invertible Decoders for Unsupervised Sentence Representation Learning",
+    "authors": "Shuai Tang and Virginia R. de Sa",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 398
+  },
+  {
+    "title": "Neural Response Generation with Meta-words",
+    "authors": "Can Xu, wei wu, Chongyang Tao, Huang Hu, Matt Schuerman and Ying Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 399
+  },
+  {
+    "title": "Towards Comprehensive Description Generation from Factual Attribute-value Tables",
+    "authors": "Tianyu Liu, Fuli Luo, Pengcheng Yang, Wei Wu, Baobao Chang and Zhifang Sui",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 400
+  },
+  {
+    "title": "Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts",
+    "authors": "Alakananda Vempala and Daniel Preoţiuc-Pietro",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 401
+  },
+  {
+    "title": "Expressing Visual Relationships via Language",
+    "authors": "Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui and Mohit Bansal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 402
+  },
+  {
+    "title": "Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention",
+    "authors": "Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen and Weihua Luo",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 403
+  },
+  {
+    "title": "Beyond BLEU:Training Neural Machine Translation with Semantic Similarity",
+    "authors": "John Wieting, Taylor Berg-Kirkpatrick, Kevin Gimpel and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 404
+  },
+  {
+    "title": "Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good",
+    "authors": "Xuewei Wang, Weiyan Shi, Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang and Zhou Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 405
+  },
+  {
+    "title": "Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces",
+    "authors": "Barun Patra, Joel Ruben Antony Moniz, Sarthak Garg, Matthew R. Gormley and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 406
+  },
+  {
+    "title": "Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue",
+    "authors": "Anusha Balakrishnan, Jinfeng Rao, Kartikeya Upasani, Michael White and Rajen Subba",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 407
+  },
+  {
+    "title": "Quantifying Similarity between Relations with Fact Distribution",
+    "authors": "Weize Chen, Hao Zhu, Xu Han, Zhiyuan Liu and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 408
+  },
+  {
+    "title": "An Effective Approach to Unsupervised Machine Translation",
+    "authors": "Mikel Artetxe, Gorka Labaka and Eneko Agirre",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 409
+  },
+  {
+    "title": "NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language",
+    "authors": "Leon Weber, Pasquale Minervini, Jannes Münchmeyer, Ulf Leser and Tim Rocktäschel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 410
+  },
+  {
+    "title": "Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems",
+    "authors": "Hung Le, Doyen Sahoo, Nancy Chen and Steven Hoi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 411
+  },
+  {
+    "title": "Graph-based Dependency Parsing with Graph Neural Networks",
+    "authors": "Tao Ji, Yuanbin Wu and Man Lan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 412
+  },
+  {
+    "title": "You Write Like You Eat: Stylistic Variation as a Predictor of Social Stratification",
+    "authors": "Angelo Basile, Albert Gatt and Malvina Nissim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 413
+  },
+  {
+    "title": "Transforming Complex Sentences into a Semantic Hierarchy",
+    "authors": "Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 414
+  },
+  {
+    "title": "Global Optimization under Length Constraint for Neural Text Summarization",
+    "authors": "Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 415
+  },
+  {
+    "title": "Latent Variable Sentiment Grammar",
+    "authors": "Liwen Zhang, Kewei Tu and Yue Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 416
+  },
+  {
+    "title": "Wide-Coverage Neural A* Parsing for Minimalist Grammars",
+    "authors": "John Torr, Milos Stanojevic, Mark Steedman and Shay B. Cohen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 417
+  },
+  {
+    "title": "Enhancing Unsupervised Generative Dependency Parser with Contextual Information",
+    "authors": "Wenjuan Han, Yong Jiang and Kewei Tu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 418
+  },
+  {
+    "title": "Open-Domain Why-Question Answering with Adversarial Learning to Encode Answer Texts",
+    "authors": "Jong-Hoon Oh, Kazuma Kadowaki, Julien Kloetzer, Ryu Iida and Kentaro Torisawa",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 419
+  },
+  {
+    "title": "Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts",
+    "authors": "Rui Xia and Zixiang Ding",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 420
+  },
+  {
+    "title": "Eliciting Knowledge from Experts: Automatic Transcript Parsing for Cognitive Task Analysis",
+    "authors": "Junyi Du, He Jiang, Jiaming Shen and Xiang Ren",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 421
+  },
+  {
+    "title": "Time-Out: Temporal Referencing for Robust Modeling of Lexical Semantic Change",
+    "authors": "Haim Dubossarsky, Simon Hengchen, Nina Tahmasebi and Dominik Schlechtweg",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 422
+  },
+  {
+    "title": "Language Modeling with Shared Grammar",
+    "authors": "Yuyu Zhang and Le Song",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 423
+  },
+  {
+    "title": "Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System",
+    "authors": "Hardik Chauhan, Mauajama Firdaus, Asif Ekbal and Pushpak Bhattacharyya",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 424
+  },
+  {
+    "title": "Improving Neural Conversational Models with Entropy-Based Data Filtering",
+    "authors": "Richárd Csáky, Patrik Purgai and Gábor Recski",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 425
+  },
+  {
+    "title": "Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation",
+    "authors": "Ning Dai, Jianze Liang, Xipeng Qiu and Xuanjing Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 426
+  },
+  {
+    "title": "Distilling Translations with Visual Awareness",
+    "authors": "Julia Ive, Pranava Madhyastha and Lucia Specia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 427
+  },
+  {
+    "title": "Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media",
+    "authors": "Chang Li and Dan Goldwasser",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 428
+  },
+  {
+    "title": "Reference Network for Neural Machine Translation",
+    "authors": "Han Fu, Chenghao Liu and Jianling Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 429
+  },
+  {
+    "title": "Target-Guided Open-Domain Conversation",
+    "authors": "Jianheng Tang, Tiancheng Zhao, Chenyan Xiong, Xiaodan Liang, Eric Xing and Zhiting Hu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 430
+  },
+  {
+    "title": "Mitigating Gender Bias in Natural Language Processing: Literature Review",
+    "authors": "Tony Sun, Andrew Gaut, Shirlyn Tang, Yuxin Huang, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 431
+  },
+  {
+    "title": "VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions",
+    "authors": "Pranava Madhyastha, Josiah Wang and Lucia Specia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 432
+  },
+  {
+    "title": "Searching for Effective Neural Extractive Summarization: What Works and What’s Next",
+    "authors": "Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 433
+  },
+  {
+    "title": "Give Me More Feedback II: Annotating Thesis Strength and Related Attributes in Student Essays",
+    "authors": "Zixuan Ke, Hrishikesh Inamdar, Hui Lin and Vincent Ng",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 434
+  },
+  {
+    "title": "Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation",
+    "authors": "Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen and Jie Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 435
+  },
+  {
+    "title": "Modeling Semantic Compositionality with Sememe Knowledge",
+    "authors": "Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 436
+  },
+  {
+    "title": "Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings",
+    "authors": "Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 437
+  },
+  {
+    "title": "Learning to Ask Unanswerable Questions for Machine Reading Comprehension",
+    "authors": "Haichao Zhu, Li Dong, Furu Wei, Wenhui Wang, Bing Qin and Ting Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 438
+  },
+  {
+    "title": "Graph Neural Networks with Generated Parameters for Relation Extraction",
+    "authors": "Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 439
+  },
+  {
+    "title": "A Unified Multi-task Adversarial Learning Framework for Pharmacovigilance Mining",
+    "authors": "Shweta Yadav, Asif Ekbal, Sriparna Saha and Pushpak Bhattacharyya",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 440
+  },
+  {
+    "title": "Gated Embeddings in End-to-End Speech Recognition for Conversational-Context Fusion",
+    "authors": "Suyoun Kim, Siddharth Dalmia and Florian Metze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 441
+  },
+  {
+    "title": "A Lightweight Recurrent Network for Sequence Modeling",
+    "authors": "Biao Zhang and Rico Sennrich",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 442
+  },
+  {
+    "title": "STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework",
+    "authors": "Mingbo Ma, Liang Huang, Hao Xiong, Renjie Zheng, Kaibo Liu, Baigong Zheng, Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, Hua Wu and Haifeng Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 443
+  },
+  {
+    "title": "Generating Sentences from Disentangled Syntactic and Semantic Spaces",
+    "authors": "Yu Bao, Hao Zhou, Shujian Huang, Lei Li, Lili Mou, Olga Vechtomova, XIN-YU DAI and Jiajun CHEN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 444
+  },
+  {
+    "title": "Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index (DenSPI)",
+    "authors": "Minjoon Seo, Jinhyuk Lee, Tom Kwiatkowski, Ankur Parikh, Ali Farhadi and Hannaneh Hajishirzi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 445
+  },
+  {
+    "title": "Multi-Channel Graph Neural Network for Entity Alignment",
+    "authors": "Yixin Cao, Zhiyuan Liu, Chengjiang Li, Zhiyuan Liu, Juanzi Li and Tat-Seng Chua",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 446
+  },
+  {
+    "title": "SHORT PAPERS (MAIN CONFERENCE)",
+    "authors": "BACK TO TOP",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 447
+  },
+  {
+    "title": "Neural-based Chinese Idiom Recommendation for Enhancing Elegance in Essay Writing",
+    "authors": "yuanchao liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 448
+  },
+  {
+    "title": "Figurative Usage Detection of Symptom Words to Improve Personal Health Mention Detection",
+    "authors": "Adith Iyer, Aditya Joshi, Sarvnaz Karimi, Ross Sparks and Cecile Paris",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 449
+  },
+  {
+    "title": "Better Exploiting Latent Variables in Text Modeling",
+    "authors": "Canasai Kruengkrai",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 450
+  },
+  {
+    "title": "Crowdsourcing and Validating Event-focused Emotion Corpora for German and English",
+    "authors": "Enrica Troiano, Sebastian Padó and Roman Klinger",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 451
+  },
+  {
+    "title": "Hierarchical Transfer Learning for Multi-label Text Classification",
+    "authors": "Siddhartha Banerjee, Cem Akkaya, Francisco Perez-Sorrosal and Kostas Tsioutsiouliklis",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 452
+  },
+  {
+    "title": "Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization",
+    "authors": "Manling Li, Lingyu Zhang, Heng Ji and Richard J. Radke",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 453
+  },
+  {
+    "title": "Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation",
+    "authors": "Francine Chen and Yan-Ying Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 454
+  },
+  {
+    "title": "SemBleu: A Robust Metric for AMR Parsing Evaluation",
+    "authors": "Linfeng Song and Daniel Gildea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 455
+  },
+  {
+    "title": "Look Harder: A Neural Machine Translation Model with Hard Attention",
+    "authors": "Sathish Reddy Indurthi, Insoo Chung and Sangha Kim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 456
+  },
+  {
+    "title": "Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation",
+    "authors": "Ronghang Hu, Daniel Fried, Anna Rohrbach, Dan Klein, Trevor Darrell and Kate Saenko",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 457
+  },
+  {
+    "title": "Robust Neural Machine Translation with Joint Textual and Phonetic Embedding",
+    "authors": "Hairong Liu, Mingbo Ma, Liang Huang, hao xiong and Zhongjun He",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 458
+  },
+  {
+    "title": "The Referential Reader: A Recurrent Entity Network for Anaphora Resolution",
+    "authors": "Fei Liu, Luke Zettlemoyer and Jacob Eisenstein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 459
+  },
+  {
+    "title": "A Neural Multi-digraph Model for Chinese NER with Gazetteers",
+    "authors": "Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 460
+  },
+  {
+    "title": "Neural Architectures for Nested NER through Linearization",
+    "authors": "Jana Straková, Milan Straka and Jan Hajic",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 461
+  },
+  {
+    "title": "Aiming beyond the Obvious: Identifying Non-Obvious Cases in Semantic Similarity Datasets",
+    "authors": "Nicole Peinelt, Maria Liakata and Dong Nguyen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 462
+  },
+  {
+    "title": "Bias Analysis and Mitigation in the Evaluation of Authorship Verification",
+    "authors": "Janek Bevendorff, Matthias Hagen, Benno Stein and Martin Potthast",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 463
+  },
+  {
+    "title": "Self-Supervised Neural Machine Translation",
+    "authors": "Dana Ruiter, Cristina España-Bonet and Josef van Genabith",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 464
+  },
+  {
+    "title": "Who Sides With Whom? Towards Computational Construction of Discourse Networks for Political Debates",
+    "authors": "Sebastian Padó, Andre Blessing, Nico Blokker, Erenay Dayanik, Sebastian Haunss and Jonas Kuhn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 465
+  },
+  {
+    "title": "Visual Story Post-Editing",
+    "authors": "Ting-Yao Hsu, Chieh-Yang Huang, Yen-Chia Hsu and Ting-Hao Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 466
+  },
+  {
+    "title": "Quantity Tagger: A Latent-Variable Sequence Labeling Approach to Solving Addition-Subtraction Word Problems",
+    "authors": "Yanyan Zou and Wei Lu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 467
+  },
+  {
+    "title": "Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments",
+    "authors": "Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 468
+  },
+  {
+    "title": "Adaptive Attention Span in Transformers",
+    "authors": "Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski and Armand Joulin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 469
+  },
+  {
+    "title": "Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers",
+    "authors": "Haoyu Wang, Ming Tan, Mo Yu, Shiyu Chang, Dakuo Wang, Kun Xu, Xiaoxiao Guo and Saloni Potdar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 470
+  },
+  {
+    "title": "Generalized Tuning of Distributional Word Vectors for Monolingual and Cross-Lingual Lexical Entailment",
+    "authors": "Goran Glavaš and Ivan Vulić",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 471
+  },
+  {
+    "title": "Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network",
+    "authors": "Sunil Kumar Sahu, Fenia Christopoulou, Makoto Miwa and Sophia Ananiadou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 472
+  },
+  {
+    "title": "NNE: A Dataset for Nested Named Entity Recognition in English Newswire",
+    "authors": "Nicky Ringland, Xiang Dai, Ben Hachey, Sarvnaz Karimi, Cecile Paris and James R. Curran",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 473
+  },
+  {
+    "title": "Misleading Failures of Partial-input Baselines",
+    "authors": "Shi Feng, Eric Wallace and Jordan Boyd-Graber",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 474
+  },
+  {
+    "title": "Improving Low-Resource Cross-lingual Document Retrieval by Reranking with Deep Bilingual Representations",
+    "authors": "Rui Zhang, Caitlin Westerfield, Sungrok Shim, Garrett Bingham, Alexander Fabbri, William Hu, Neha Verma and Dragomir Radev",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 475
+  },
+  {
+    "title": "Online Infix Probability Computation for Probabilistic Finite Automata",
+    "authors": "Marco Cognetta, Yo-Sub Han and Soon Chan Kwon",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 476
+  },
+  {
+    "title": "Exact Hard Monotonic Attention for Character-Level Transduction",
+    "authors": "Shijie Wu and Ryan Cotterell",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 477
+  },
+  {
+    "title": "Soft Contextual Data Augmentation for Neural Machine Translation",
+    "authors": "Fei Gao, Jinhua Zhu, Lijun Wu, Yingce Xia, Tao Qin, Xueqi Cheng, Wengang Zhou and Tie-Yan Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 478
+  },
+  {
+    "title": "How to best use Syntax in Semantic Role Labelling",
+    "authors": "Yufei Wang, Mark Johnson, Stephen Wan, Yifang Sun and Wei Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 479
+  },
+  {
+    "title": "Leveraging Meta Information in Short Text Aggregation",
+    "authors": "He Zhao, Lan Du, Guanfeng Liu and Wray Buntine",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 480
+  },
+  {
+    "title": "Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference",
+    "authors": "He Bai, Yu Zhou, Jiajun Zhang and Chengqing Zong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 481
+  },
+  {
+    "title": "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network",
+    "authors": "Kun Xu, liwei wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang and Dong Yu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 482
+  },
+  {
+    "title": "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning",
+    "authors": "Gonçalo M. Correia and André F. T. Martins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 483
+  },
+  {
+    "title": "The Risk of Racial Bias in Hate Speech Detection",
+    "authors": "Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi and Noah A. Smith",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 484
+  },
+  {
+    "title": "Pay attention when you pay the bills. A multilingual corpus with dependency-based and semantic annotation of collocations.",
+    "authors": "Marcos Garcia, Marcos García Salido, Susana Sotelo Docío, Estela Mosqueira and Margarita Alonso-Ramos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 485
+  },
+  {
+    "title": "CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks",
+    "authors": "Roberto Dessì and Marco Baroni",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 486
+  },
+  {
+    "title": "Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment",
+    "authors": "Nanjiang Jiang and Marie-Catherine de Marneffe",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 487
+  },
+  {
+    "title": "An Imitation Learning Approach to Unsupervised Parsing",
+    "authors": "Bowen Li, Lili Mou and Frank Keller",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 488
+  },
+  {
+    "title": "Domain Adaptive Inference for Neural Machine Translation",
+    "authors": "Danielle Saunders, Felix Stahlberg, Adrià de Gispert and Bill Byrne",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 489
+  },
+  {
+    "title": "Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization",
+    "authors": "Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka and Jordan Boyd-Graber",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 490
+  },
+  {
+    "title": "BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization",
+    "authors": "Eva Sharma, Chen Li and Lu Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 491
+  },
+  {
+    "title": "A Deep Reinforced Sequence-to-Set Model for Multi-Label Classification",
+    "authors": "Pengcheng Yang, Fuli Luo, Shuming Ma, Junyang Lin and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 492
+  },
+  {
+    "title": "Cross-Modal Commentator: Automatic Machine Commenting Based on Cross-Modal Information",
+    "authors": "Pengcheng Yang, Zhihan Zhang, Fuli Luo, Lei Li, Chengyang Huang and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 493
+  },
+  {
+    "title": "Learning to Control the Fine-grained Sentiment for Story Ending Generation",
+    "authors": "Fuli Luo, Damai Dai, Pengcheng Yang, Tianyu Liu, Baobao Chang, Zhifang Sui and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 494
+  },
+  {
+    "title": "Reranking for Neural Semantic Parsing",
+    "authors": "Pengcheng Yin and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 495
+  },
+  {
+    "title": "An Empirical Investigation of Structured Output Modeling for Graph-based Neural Dependency Parsing",
+    "authors": "Zhisong Zhang, Xuezhe Ma and Eduard Hovy",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 496
+  },
+  {
+    "title": "PTB Graph Parsing with Tree Approximation",
+    "authors": "Yoshihide Kato and Shigeki Matsubara",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 497
+  },
+  {
+    "title": "Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study",
+    "authors": "Chinnadhurai Sankar, Sandeep Subramanian, Chris Pal, Sarath Chandar and Yoshua Bengio",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 498
+  },
+  {
+    "title": "Cost-sensitive Regularization for Label Confusion-aware Event Detection",
+    "authors": "Hongyu Lin, Yaojie Lu, Xianpei Han and Le Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 499
+  },
+  {
+    "title": "Using Human Attention to Extract Keyphrase from Microblog Post",
+    "authors": "Yingyi Zhang and Chengzhi Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 500
+  },
+  {
+    "title": "Does It Make Sense And Why A Pilot Study for Sense Making and Explanation",
+    "authors": "Cunxiang Wang, Shuailong Liang, Yue Zhang, Xiaonan Li and Tian Gao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 501
+  },
+  {
+    "title": "Delta Embedding Learning",
+    "authors": "Xiao Zhang, Ji Wu and Dejing Dou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 502
+  },
+  {
+    "title": "Personalizing Dialogue Agents via Meta-Learning",
+    "authors": "Andrea Madotto, Zhaojiang Lin, Chien-Sheng Wu and Pascale Fung",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 503
+  },
+  {
+    "title": "Fine-Grained Spoiler Detection from Large-Scale Review Corpora",
+    "authors": "Mengting Wan, Rishabh Misra, Ndapa Nakashole and Julian McAuley",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 504
+  },
+  {
+    "title": "An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese",
+    "authors": "Enkhbold Bataa and Joshua Wu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 505
+  },
+  {
+    "title": "MAAM: A Morphology-Aware Alignment Model for Unsupervised Bilingual Lexicon Induction",
+    "authors": "Pengcheng Yang, Fuli Luo, Peng Chen, Tianyu Liu and Xu SUN",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 506
+  },
+  {
+    "title": "Better Character Language Modeling Through Morphology",
+    "authors": "Terra Blevins and Luke Zettlemoyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 507
+  },
+  {
+    "title": "Reading Turn by Turn: Hierarchical Attention Architecture for Spoken Dialogue Comprehension",
+    "authors": "Zhengyuan Liu and Nancy Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 508
+  },
+  {
+    "title": "Data Programming for Learning Discourse Structure",
+    "authors": "Sonia Badene, Kate Thompson, Jean-Pierre Lorré and Nicholas Asher",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 509
+  },
+  {
+    "title": "Complex Word Identification as a Sequence Labelling Task",
+    "authors": "Sian Gooding and Ekaterina Kochmar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 510
+  },
+  {
+    "title": "Annotation and automatic classification of aspectual categories",
+    "authors": "Markus Egg, Helena Prepens and Will Roberts",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 511
+  },
+  {
+    "title": "Probing Neural Network Comprehension of Natural Language Arguments",
+    "authors": "Timothy Niven and Hung-Yu Kao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 512
+  },
+  {
+    "title": "Uncovering Probabilistic Implications in Typological Knowledge Bases",
+    "authors": "Johannes Bjerva, Yova Kementchedjhieva, Ryan Cotterell and Isabelle Augenstein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 513
+  },
+  {
+    "title": "Recognising Agreement and Disagreement between Stances with Reason Comparing Networks",
+    "authors": "Chang Xu, Cecile Paris, Surya Nepal and Ross Sparks",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 514
+  },
+  {
+    "title": "Sequence Labeling Parsing by Learning Across Representations",
+    "authors": "Michalina Strzyz, David Vilares and Carlos Gómez-Rodríguez",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 515
+  },
+  {
+    "title": "Confusionset-guided Pointer Networks for Chinese Spelling Check",
+    "authors": "Dingmin Wang, Yi Tay and Li Zhong",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 516
+  },
+  {
+    "title": "Historical Text Normalization with Delayed Rewards",
+    "authors": "Simon Flachs, Marcel Bollmann and Anders Søgaard",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 517
+  },
+  {
+    "title": "Multi-grained Attention with Object-level Grounding for Visual Question Answering",
+    "authors": "Pingping Huang, Jianhui Huang, Yuqing Guo, Min Qiao and Yong Zhu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 518
+  },
+  {
+    "title": "Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions",
+    "authors": "Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 519
+  },
+  {
+    "title": "Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing",
+    "authors": "Ben Bogin, Jonathan Berant and Matt Gardner",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 520
+  },
+  {
+    "title": "Analyzing the limitations of cross-lingual word embedding mappings",
+    "authors": "Aitor Ormazabal, Mikel Artetxe, Gorka Labaka, Aitor Soroa and Eneko Agirre",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 521
+  },
+  {
+    "title": "Large Dataset and Language Model Fun-Tuning for Humor Recognition",
+    "authors": "Vladislav Blinov, Valeria Bolotova-Baranova and Pavel Braslavski",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 522
+  },
+  {
+    "title": "A Working Memory Model for Task-oriented Dialog Response Generation",
+    "authors": "Xiuyi Chen, Jiaming Xu and Bo Xu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 523
+  },
+  {
+    "title": "Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting",
+    "authors": "Jeanne E. Daniel, Willie Brink, Ryan Eloff and Charles Copley",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 524
+  },
+  {
+    "title": "HEAD-QA: A Healthcare Dataset for Complex Reasoning",
+    "authors": "David Vilares and Carlos Gómez-Rodríguez",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 525
+  },
+  {
+    "title": "A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling",
+    "authors": "Haihong E, Peiqing Niu, Zhongfu Chen and Meina Song",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 526
+  },
+  {
+    "title": "Improving Open Information Extraction via Iterative Rank-Aware Learning",
+    "authors": "Zhengbao Jiang, Pengcheng Yin and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 527
+  },
+  {
+    "title": "Joint Entity Extraction and Assertion Detection for Clinical Text",
+    "authors": "Parminder Bhatia, Busra Celikkaya and Mohammed Khalilia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 528
+  },
+  {
+    "title": "Neural News Recommendation with Topic-Aware News Representation",
+    "authors": "Chuhan Wu, Fangzhao Wu, Mingxiao An, Yongfeng Huang and Xing Xie",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 529
+  },
+  {
+    "title": "Revisiting Low-Resource Neural Machine Translation: A Case Study",
+    "authors": "Rico Sennrich and Biao Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 530
+  },
+  {
+    "title": "Putting words in context: LSTM language models and lexical ambiguity",
+    "authors": "Laura Aina, Kristina Gulordava and Gemma Boleda",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 531
+  },
+  {
+    "title": "Interpolated Spectral NGram Language Models",
+    "authors": "Ariadna Quattoni and Xavier Carreras",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 532
+  },
+  {
+    "title": "Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation",
+    "authors": "Xinyi Wang and Graham Neubig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 533
+  },
+  {
+    "title": "Evaluating Discourse in Structured Text Representations",
+    "authors": "Elisa Ferracane, Greg Durrett, Junyi Jessy Li and Katrin Erk",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 534
+  },
+  {
+    "title": "Know What You Don't Know: Modeling a Pragmatic Speaker that Refers to Objects of Unknown Categories",
+    "authors": "Sina Zarrieß and David Schlangen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 535
+  },
+  {
+    "title": "Corpus-based Check-up for Thesaurus",
+    "authors": "Natalia Loukachevitch",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 536
+  },
+  {
+    "title": "Poetry to Prose Conversion in Sanskrit as a Linearisation Task: A case for Low-Resource Languages",
+    "authors": "Amrith Krishna, Vishnu Sharma, Bishal Santra, Aishik Chakraborty, Pavankumar Satuluri and Pawan Goyal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 537
+  },
+  {
+    "title": "Self-Attention Architectures for Answer-Agnostic Neural Question Generation",
+    "authors": "Thomas Scialom, Benjamin Piwowarski and Jacopo Staiano",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 538
+  },
+  {
+    "title": "Toward Comprehensive Understanding of a Sentiment Based on Human Motives",
+    "authors": "Naoki Otani and Eduard Hovy",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 539
+  },
+  {
+    "title": "Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark",
+    "authors": "Nikita Nangia and Samuel R. Bowman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 540
+  },
+  {
+    "title": "Context-aware Embedding for Targeted Aspect-based Sentiment Analysis",
+    "authors": "Bin Liang, Jiachen Du, Ruifeng Xu, Binyang Li and Hejiao Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 541
+  },
+  {
+    "title": "Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach",
+    "authors": "Zonghan Yang, Yong Cheng, Yang Liu and Maosong Sun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 542
+  },
+  {
+    "title": "Towards Improving Neural Named Entity Recognition with Gazetteers",
+    "authors": "Tianyu Liu, Jin-Ge Yao and Chin-Yew Lin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 543
+  },
+  {
+    "title": "Large-Scale Multi-Label Text Classification on EU Legislation",
+    "authors": "Ilias Chalkidis, Emmanouil Fergadiotis, Prodromos Malakasiotis and Ion Androutsopoulos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 544
+  },
+  {
+    "title": "Celebrity Profiling",
+    "authors": "Matti Wiegmann, Benno Stein and Martin Potthast",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 545
+  },
+  {
+    "title": "Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation",
+    "authors": "Nima Pourdamghani, Nada Aldarrab, Marjan Ghazvininejad, Kevin Knight and Jonathan May",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 546
+  },
+  {
+    "title": "Compositional Semantic Parsing Across Graphbanks",
+    "authors": "Matthias Lindemann, Jonas Groschwitz and Alexander Koller",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 547
+  },
+  {
+    "title": "A2N: Attending to Neighbors for Knowledge Graph Inference",
+    "authors": "Trapit Bansal, Da-Cheng Juan, Sujith Ravi and Andrew McCallum",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 548
+  },
+  {
+    "title": "You Only Need Attention to Traverse Trees",
+    "authors": "Mahtab Ahmed, Muhammad Rifayat Samee and Robert E. Mercer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 549
+  },
+  {
+    "title": "Studying Summarization Evaluation Metrics in the Appropriate Scoring Range",
+    "authors": "Maxime Peyrard",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 550
+  },
+  {
+    "title": "BAM! Born-Again Multi-Task Networks for Natural Language Understanding",
+    "authors": "Kevin Clark, Minh-Thang Luong, Urvashi Khandelwal, Christopher D. Manning and Quoc V. Le",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 551
+  },
+  {
+    "title": "Making Fast Graph-based Algorithms with Graph Metric Embeddings",
+    "authors": "Andrey Kutuzov, Mohammad Dorgham, Oleksiy Oliynyk, Chris Biemann and Alexander Panchenko",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 552
+  },
+  {
+    "title": "Is word segmentation child's play in all languages?",
+    "authors": "Georgia R. Loukatou, Steven Moran, Damian Blasi, Sabine Stoll and Alejandrina Cristia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 553
+  },
+  {
+    "title": "Every child should have parents: a taxonomy refinement algorithm based on hyperbolic term embeddings",
+    "authors": "Rami Aly, Shantanu Acharya, Alexander Ossa, Arne Köhn, Chris Biemann and Alexander Panchenko",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 554
+  },
+  {
+    "title": "What does BERT learn about the structure of language?",
+    "authors": "Ganesh Jawahar, Benoît Sagot and Djamé Seddah",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 555
+  },
+  {
+    "title": "Neural Legal Judgment Prediction in English",
+    "authors": "Ilias Chalkidis, Ion Androutsopoulos and Nikolaos Aletras",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 556
+  },
+  {
+    "title": "Dual Supervised Learning for Natural Language Understanding and Generation",
+    "authors": "Shang-Yu Su, Chao-Wei Huang and Yun-Nung Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 557
+  },
+  {
+    "title": "Yes, we can! Mining Arguments in 50 Years of US Presidential Campaign Debates",
+    "authors": "Shohreh Haddadan, Elena Cabrio and Serena Villata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 558
+  },
+  {
+    "title": "Unsupervised Paraphrasing without Translation",
+    "authors": "Aurko Roy and David Grangier",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 559
+  },
+  {
+    "title": "Reversing Gradients in Adversarial Domain Adaptation for Question Deduplication and Textual Entailment Tasks",
+    "authors": "Anush Kamath, Sparsh Gupta and Vitor Carvalho",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 560
+  },
+  {
+    "title": "Graph based Neural Networks for Event Factuality Prediction using Syntactic and Semantic Structures",
+    "authors": "Amir Pouran Ben Veyseh, Thien Huu Nguyen and Dejing Dou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 561
+  },
+  {
+    "title": "Training Hybrid Language Models by Marginalizing over Segmentations",
+    "authors": "Edouard Grave, Sainbayar Sukhbaatar, Piotr Bojanowski and Armand Joulin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 562
+  },
+  {
+    "title": "Psycholinguistics meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering",
+    "authors": "Claudio Greco, Barbara Plank, Raquel Fernández and Raffaella Bernardi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 563
+  },
+  {
+    "title": "On the distribution of deep clausal embeddings: a large cross-linguistic study",
+    "authors": "Damian Blasi, Ryan Cotterell, Lawrence Wolf-Sonkin, Sabine Stoll, Balthasar Bickel and Marco Baroni",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 564
+  },
+  {
+    "title": "Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings",
+    "authors": "Mikel Artetxe and Holger Schwenk",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 565
+  },
+  {
+    "title": "JW300: A Wide-Coverage Parallel Corpus for Low-Resource Languages",
+    "authors": "Željko Agić and Ivan Vulić",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 566
+  },
+  {
+    "title": "Embedding Imputation with Grounded Language Information",
+    "authors": "Ziyi Yang, Chenguang Zhu, Vin Sachidananda and Eric Darve",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 567
+  },
+  {
+    "title": "Rewarding Smatch: Transition-Based AMR Parsing with Reinforcement Learning",
+    "authors": "Tahira Naseem, Abhishek Shah, Hui Wan, Radu Florian, Salim Roukos and Miguel Ballesteros",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 568
+  },
+  {
+    "title": "Compositional Questions Do Not Necessitate Multi-hop Reasoning",
+    "authors": "Sewon Min, Eric Wallace, Sameer Singh, Matt Gardner, Hannaneh Hajishirzi and Luke Zettlemoyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 569
+  },
+  {
+    "title": "Boosting Dialog Response Generation",
+    "authors": "Wenchao Du and Alan W Black",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 570
+  },
+  {
+    "title": "Embedding time expressions for deep temporal ordering models",
+    "authors": "Tanya Goyal and Greg Durrett",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 571
+  },
+  {
+    "title": "Learning to Rank for Plausible Plausibility",
+    "authors": "Zhongyang Li, Tongfei Chen and Benjamin Van Durme",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 572
+  },
+  {
+    "title": "Learning Emphasis Selection for Written Text in Visual Media from Crowd-Sourced Label Distributions",
+    "authors": "Amirreza Shirani, Franck Dernoncourt, Paul Asente, Nedim Lipka, Seokhwan Kim, Jose Echevarria and Thamar Solorio",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 573
+  },
+  {
+    "title": "SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking",
+    "authors": "Hwaran Lee, Jinsik Lee and Tae-Yoon Kim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 574
+  },
+  {
+    "title": "Towards Integration of Statistical Hypothesis Tests into Deep Neural Networks",
+    "authors": "Ahmad Aghaebrahimian and Mark Cieliebak",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 575
+  },
+  {
+    "title": "Why Didn’t You Listen to Me? Comparing User Control of Human-in-the-Loop Topic Models",
+    "authors": "Varun Kumar, Alison Smith-Renner, Leah Findlater, Kevin Seppi and Jordan Boyd-Graber",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 576
+  },
+  {
+    "title": "Synthetic QA Corpora Generation with Roundtrip Consistency",
+    "authors": "Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin and Michael Collins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 577
+  },
+  {
+    "title": "Attention-based Conditioning Methods for External Knowledge Integration",
+    "authors": "Katerina Margatina, Christos Baziotis and Alexandros Potamianos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 578
+  },
+  {
+    "title": "Generating Diverse Translations with Sentence Codes",
+    "authors": "Raphael Shu, Hideki Nakayama and Kyunghyun Cho",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 579
+  },
+  {
+    "title": "A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings",
+    "authors": "Chris Sweeney and Maryam Najafian",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 580
+  },
+  {
+    "title": "End-to-end Deep Reinforcement Learning Based Coreference Resolution",
+    "authors": "Hongliang Fei, Xu Li, Dingcheng Li and Ping Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 581
+  },
+  {
+    "title": "Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation",
+    "authors": "Elizabeth Salesky, Matthias Sperber and Alan W Black",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 582
+  },
+  {
+    "title": "A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition",
+    "authors": "Ravneet Arora, Chen-Tse Tsai, Ketevan Tsereteli, Prabhanjan Kambadur and Yi Yang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 583
+  },
+  {
+    "title": "Robust Zero-Shot Cross-Domain Slot Filling with Example Values",
+    "authors": "Darsh Shah, Raghav Gupta, Amir Fayazi and Dilek Hakkani-Tur",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 584
+  },
+  {
+    "title": "Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification",
+    "authors": "Tu Vu and Mohit Iyyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 585
+  },
+  {
+    "title": "Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings",
+    "authors": "Linh The Nguyen, Linh Van Ngo, Khoat Than and Thien Huu Nguyen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 586
+  },
+  {
+    "title": "Multimodal Abstractive Summarization for How2 Videos",
+    "authors": "Shruti Palaskar, Jindřich Libovický, Spandana Gella and Florian Metze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 587
+  },
+  {
+    "title": "Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning",
+    "authors": "Quanzhi Li, Qiong Zhang and Luo Si",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 588
+  },
+  {
+    "title": "Deep Unknown Intent Detection with Margin Loss",
+    "authors": "Ting-En Lin and Hua Xu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 589
+  },
+  {
+    "title": "A Simple Recipe towards Reducing Hallucination in Neural Surface Realisation",
+    "authors": "Feng Nie, Jin-Ge Yao, Jinpeng Wang, Rong Pan and Chin-Yew Lin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 590
+  },
+  {
+    "title": "Training Neural Machine Translation To Apply Terminology Constraints",
+    "authors": "Georgiana Dinu, Prashant Mathur, Marcello Federico and Yaser Al-Onaizan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 591
+  },
+  {
+    "title": "BERT Rediscovers the Classical NLP Pipeline",
+    "authors": "Ian Tenney, Dipanjan Das and Ellie Pavlick",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 592
+  },
+  {
+    "title": "Exploiting Sentential Context for Neural Machine Translation",
+    "authors": "Xing Wang, Zhaopeng Tu, Longyue Wang and Shuming Shi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 593
+  },
+  {
+    "title": "Multilingual Constituency Parsing with Self-Attention and Pre-Training",
+    "authors": "Nikita Kitaev, Steven Cao and Dan Klein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 594
+  },
+  {
+    "title": "Simple Unsupervised Summarization by Contextual Matching",
+    "authors": "Jiawei Zhou and Alexander Rush",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 595
+  },
+  {
+    "title": "Women's Syntactic Resilience and Men's Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing",
+    "authors": "Aparna Garimella, Carmen Banea, Dirk Hovy and Rada Mihalcea",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 596
+  },
+  {
+    "title": "Storyboarding of Recipes: Grounded Contextual Generation",
+    "authors": "Khyathi Chandu, Eric Nyberg and Alan W Black",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 597
+  },
+  {
+    "title": "Energy and Policy Considerations for Deep Learning in NLP",
+    "authors": "Emma Strubell, Ananya Ganesh and Andrew McCallum",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 598
+  },
+  {
+    "title": "Depth Growing for Neural Machine Translation",
+    "authors": "Lijun Wu, Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao QIN, Jianhuang Lai and Tie-Yan Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 599
+  },
+  {
+    "title": "Effective Adversarial Regularization for Neural Machine Translation",
+    "authors": "Motoki Sato, Jun Suzuki and Shun Kiyono",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 600
+  },
+  {
+    "title": "Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader",
+    "authors": "Wenhan Xiong, Mo Yu, Shiyu Chang, Xiaoxiao Guo and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 601
+  },
+  {
+    "title": "Span-Level Model for Relation Extraction",
+    "authors": "Kalpit Dixit and Yaser Al-Onaizan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 602
+  },
+  {
+    "title": "Evaluating Gender Bias in Machine Translation",
+    "authors": "Gabriel Stanovsky, Noah A. Smith and Luke Zettlemoyer",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 603
+  },
+  {
+    "title": "Learning to Relate from Captions and Bounding Boxes",
+    "authors": "Sarthak Garg, Joel Ruben Antony Moniz, Anshu Aviral and Priyatham Bollimpalli",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 604
+  },
+  {
+    "title": "Attention Is (not) All You Need for Commonsense Reasoning",
+    "authors": "Tassilo Klein and Moin Nabi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 605
+  },
+  {
+    "title": "How Multilingual is Multilingual BERT?",
+    "authors": "Telmo Pires, Eva Schlinger and Dan Garrette",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 606
+  },
+  {
+    "title": "Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference",
+    "authors": "Tobias Falke, Leonardo F. R. Ribeiro, Prasetya Ajie Utama, Ido Dagan and Iryna Gurevych",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 607
+  },
+  {
+    "title": "Dataset Creation for Ranking Constructive News Comments",
+    "authors": "Soichiro Fujita, Hayato Kobayashi and Manabu Okumura",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 608
+  },
+  {
+    "title": "Global Textual Relation Embedding for Relational Understanding",
+    "authors": "Zhiyu Chen, Hanwen Zha, Honglei Liu, Wenhu Chen, Xifeng Yan and Yu Su",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 609
+  },
+  {
+    "title": "Self-Supervised Learning for Contextualized Extractive Summarization",
+    "authors": "Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang and William Yang Wang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 610
+  },
+  {
+    "title": "Unsupervised Joint Training of Bilingual Word Embeddings",
+    "authors": "Benjamin Marie and Atsushi Fujita",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 611
+  },
+  {
+    "title": "A Just and Comprehensive Strategy for Using NLP to Address Online Abuse",
+    "authors": "David Jurgens, Libby Hemphill and Eshwar Chandrasekharan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 612
+  },
+  {
+    "title": "Towards Near-imperceptible Steganographic Text",
+    "authors": "Falcon Dai and Zheng Cai",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 613
+  },
+  {
+    "title": "Analyzing Linguistic Differences between Owner and Staff Attributed Tweets",
+    "authors": "Daniel Preoţiuc-Pietro and Rita Devlin Marier",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 614
+  },
+  {
+    "title": "AdaNSP: Uncertainty-driven Adaptive Decoding in Neural Semantic Parsing",
+    "authors": "Xiang Zhang, Shizhu He, Kang Liu and Jun Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 615
+  },
+  {
+    "title": "Cross-Domain Generalization of Neural Constituency Parsers",
+    "authors": "Daniel Fried, Nikita Kitaev and Dan Klein",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 616
+  },
+  {
+    "title": "Are Red Roses Red? Evaluating Consistency of Question-Answering Models",
+    "authors": "Marco Tulio Ribeiro, Carlos Guestrin and Sameer Singh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 617
+  },
+  {
+    "title": "Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization",
+    "authors": "Paul Pu Liang, Zhun Liu, Yao-Hung Hubert Tsai, Qibin Zhao, Ruslan Salakhutdinov and Louis-Philippe Morency",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 618
+  },
+  {
+    "title": "Enhancing Air Quality Prediction with Social Media and Natural Language Processing",
+    "authors": "Jyun-Yu Jiang, Xue Sun, Wei Wang and Sean Young",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 619
+  },
+  {
+    "title": "Improving Visual Question Answering by Referring to Generated Paragraph Captions",
+    "authors": "Hyounghun Kim and Mohit Bansal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 620
+  },
+  {
+    "title": "Putting Evaluation in Context: Contextual Embeddings improve Machine Translation Evaluation",
+    "authors": "Nitika Mathur, Timothy Baldwin and Trevor Cohn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 621
+  },
+  {
+    "title": "Context-specific Language Modeling for Human Trafficking Detection from Online Advertisements",
+    "authors": "Saeideh Shahrokh Esfahani, Michael J. Cafarella, Maziyar Baran Pouyan, Gregory DeAngelo, Elena Eneva and Andy E. Fano",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 622
+  },
+  {
+    "title": "Leveraging Local and Global Patterns for Self-Attention Networks",
+    "authors": "Mingzhou Xu, Derek F. Wong, Baosong Yang, Yue Zhang and Lidia S. Chao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 623
+  },
+  {
+    "title": "Implicit Discourse Relation Identification for Open-domain Dialogues",
+    "authors": "Mingyu Derek Ma, Kevin Bowden, Jiaqi Wu, Wen Cui and Marilyn Walker",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 624
+  },
+  {
+    "title": "Sentence-Level Agreement for Neural Machine Translation",
+    "authors": "Mingming Yang, Rui Wang, Kehai Chen, Masao Utiyama, eiichiro sumita, Min Zhang and Tiejun Zhao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 625
+  },
+  {
+    "title": "Negative Lexically Constrained Decoding for Paraphrase Generation",
+    "authors": "Tomoyuki Kajiwara",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 626
+  },
+  {
+    "title": "Wetin dey with these comments? Modeling Sociolinguistic Factors Affecting Code-switching Behavior in Nigerian Online Discussions",
+    "authors": "Innocent Ndubuisi-Obi, Sayan Ghosh and David Jurgens",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 627
+  },
+  {
+    "title": "Towards Lossless Encoding of Sentences",
+    "authors": "Gabriele Prato, Mathieu Duchesneau, Sarath Chandar and Alain Tapp",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 628
+  },
+  {
+    "title": "A Corpus for Modeling User and Language Effects in Argumentation on Online Debating",
+    "authors": "Esin Durmus and Claire Cardie",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 629
+  },
+  {
+    "title": "The Effectiveness of Simple Hybrid Systems for Hypernym Discovery",
+    "authors": "William Held and Nizar Habash",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 630
+  },
+  {
+    "title": "Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders",
+    "authors": "Sukanta Sen, Kamal Kumar Gupta, Asif Ekbal and Pushpak Bhattacharyya",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 631
+  },
+  {
+    "title": "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks",
+    "authors": "Guy Lev, Michal Shmueli-Scheuer, Jonathan Herzig, Achiya Jerbi and David Konopnicki",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 632
+  },
+  {
+    "title": "On the Summarization of Consumer Health Questions",
+    "authors": "Asma Ben Abacha and Dina Demner-Fushman",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 633
+  },
+  {
+    "title": "Exploring Author Context for Detecting Intended vs Perceived Sarcasm",
+    "authors": "Silviu Oprea and Walid Magdy",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 634
+  },
+  {
+    "title": "Simple and Effective Paraphrastic Similarity from Parallel Translations",
+    "authors": "John Wieting, Kevin Gimpel, Graham Neubig and Taylor Berg-Kirkpatrick",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 635
+  },
+  {
+    "title": "Bilingual Lexicon Induction through Unsupervised Machine Translation",
+    "authors": "Mikel Artetxe, Gorka Labaka and Eneko Agirre",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 636
+  },
+  {
+    "title": "A Surprisingly Robust Trick for the Winograd Schema Challenge",
+    "authors": "Vid Kocijan, Ana-Maria Cretu, Oana-Maria Camburu, Yordan Yordanov and Thomas Lukasiewicz",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 637
+  },
+  {
+    "title": "Large-Scale Transfer Learning for Natural Language Generation",
+    "authors": "Sergey Golovanov, Rauf Kurbanov, Sergey Nikolenko, Kyryl Truskovskyi, Alexander Tselousov and Thomas Wolf",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 638
+  },
+  {
+    "title": "Better OOV Translation with Bilingual Terminology Mining",
+    "authors": "Matthias Huck, Viktor Hangya and Alexander Fraser",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 639
+  },
+  {
+    "title": "A Prism Module for Semantic Disentanglement in Name Entity Recognition",
+    "authors": "Kun Liu, Shen Li, Daqi Zheng, Zhengdong Lu, Sheng Gao and Si Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 640
+  },
+  {
+    "title": "A Multi-Task Architecture on Relevance-based Neural Query Translation",
+    "authors": "Sheikh Muhammad Sarwar, Hamed Bonab and James Allan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 641
+  },
+  {
+    "title": "Lattice-Based Transformer Encoder for Neural Machine Translation",
+    "authors": "Fengshun Xiao, Jiangtong Li, Hai Zhao, Rui Wang and Kehai Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 642
+  },
+  {
+    "title": "BERT-based Lexical Substitution",
+    "authors": "Wangchunshu Zhou, Tao Ge, Ke Xu, Furu Wei and Ming Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 643
+  },
+  {
+    "title": "An Empirical Study of Span Representations in Argumentation Structure Parsing",
+    "authors": "Tatsuki Kuribayashi, Hiroki Ouchi, Naoya Inoue, Paul Reisert, Toshinori Miyoshi, Jun Suzuki and Kentaro Inui",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 644
+  },
+  {
+    "title": "Collocation Classification with Unsupervised Relation Vectors",
+    "authors": "Luis Espinosa Anke, Steven Schockaert and Leo Wanner",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 645
+  },
+  {
+    "title": "We need to talk about standard splits",
+    "authors": "Kyle Gorman and Steven Bedrick",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 646
+  },
+  {
+    "title": "Generating Fluent Adversarial Examples for Natural Languages",
+    "authors": "Huangzhao Zhang, Hao Zhou, Ning Miao and Lei Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 647
+  },
+  {
+    "title": "Modeling Semantic Relationship in Multi-turn Conversations with Hierarchical Latent Variables",
+    "authors": "Lei Shen, Yang Feng and Haolan Zhan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 648
+  },
+  {
+    "title": "Generating Summaries with Topic Templates and Structured Convolutional Decoders",
+    "authors": "Laura Perez-Beltrachini, Yang Liu and Mirella Lapata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 649
+  },
+  {
+    "title": "Unsupervised Rewriter for Multi-Sentence Compression",
+    "authors": "Yang Zhao, Xiaoyu Shen, Wei Bi and Akiko Aizawa",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 650
+  },
+  {
+    "title": "Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision",
+    "authors": "Abiola Obamuyide and Andreas Vlachos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 651
+  },
+  {
+    "title": "Label-Agnostic Sequence Labeling by Copying Nearest Neighbors",
+    "authors": "Sam Wiseman and Karl Stratos",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 652
+  },
+  {
+    "title": "Rationally Reappraising ATIS-based Dialogue Systems",
+    "authors": "Jingcheng Niu and Gerald Penn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 653
+  },
+  {
+    "title": "Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study",
+    "authors": "Tao Ge, Xingxing Zhang, Furu Wei and Ming Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 654
+  },
+  {
+    "title": "Coreference Resolution with Entity Equalization",
+    "authors": "Ben Kantor and Amir Globerson",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 655
+  },
+  {
+    "title": "Simultaneous Translation with Flexible Policy via Restricted Imitation Learning",
+    "authors": "Baigong Zheng, Renjie Zheng, Mingbo Ma and Liang Huang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 656
+  },
+  {
+    "title": "Twitter Homophily: Network Based Prediction of User's Occupation",
+    "authors": "Jiaqi Pan, Rishabh Bhardwaj, Wei Lu, Hai Leong Chieu, Xinghao Pan and Ni Yi Puay",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 657
+  },
+  {
+    "title": "Exploring Numeracy in Word Embeddings",
+    "authors": "Aakanksha Naik, Abhilasha Ravichander, Carolyn Rose and Eduard Hovy",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 658
+  },
+  {
+    "title": "MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension",
+    "authors": "Xuanyu Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 659
+  },
+  {
+    "title": "Constructing Interpretive Spatio-Temporal Features for Multi-Turn Responses Selection",
+    "authors": "Junyu Lu, Chenbin Zhang, Zeying Xie, Guang Ling, Tom Chao Zhou and Zenglin Xu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 660
+  },
+  {
+    "title": "SYSTEM DEMONSTRATION PAPERS",
+    "authors": "BACK TO TOP",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 661
+  },
+  {
+    "title": "Sakura: Large-scale Incorrect Example Retrieval System for Learners of Japanese as a Second Language",
+    "authors": "Mio Arai, Tomonori Kodaira and Mamoru Komachi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 662
+  },
+  {
+    "title": "SLATE: A Super-Lightweight Annotation Tool for Experts",
+    "authors": "Jonathan K. Kummerfeld",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 663
+  },
+  {
+    "title": "lingvis.io - A Linguistic Visual Analytics Framework",
+    "authors": "Mennatallah El-Assady, Wolfgang Jentner, Fabian Sperrle, Rita Sevastjanova, Annette Hautli-Janisz, Miriam Butt and Daniel Keim",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 664
+  },
+  {
+    "title": "SARAL: A Low-Resource Cross-Lingual Domain-Focused Information Retrieval System for Effective Rapid Document Triage",
+    "authors": "Elizabeth Boschee, Joel Barry, Jayadev Billa, Marjorie Freedman, Thamme Gowda, Constantine Lignos, Chester Palen-Michel, Michael Pust, Banriskhem Kayang Khonglah, Srikanth Madikeri, Jonathan May and Scott Miller",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 665
+  },
+  {
+    "title": "Jiuge: A Human-Machine Cooperative Chinese Classical Poetry Generation System",
+    "authors": "Guo Zhipeng, Xiaoyuan Yi, Maosong Sun, Wenhao Li, Cheng Yang, Jiannan Liang, Huimin Chen, Yuhui Zhang and Ruoyu Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 666
+  },
+  {
+    "title": "Rapid Customization for Event Extraction",
+    "authors": "Yee Seng Chan, Joshua Fasching, Haoling Qiu and Bonan Min",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 667
+  },
+  {
+    "title": "A Multiscale Visualization of Attention in the Transformer Model",
+    "authors": "Jesse Vig",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 668
+  },
+  {
+    "title": "PostAc : A Visual Interactive Search, Exploration, and Analysis Platform for PhD Intensive Job Postings",
+    "authors": "Chenchen Xu, Inger Mewburn, Will J Grant and Hanna Suominen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 669
+  },
+  {
+    "title": "An adaptable task-oriented dialog system for stand-alone embedded devices",
+    "authors": "Long Duong, Vu Cong Duy Hoang, Tuyen Quang Pham, Yu-Heng Hong, Vladislavs Dovgalecs, Guy Bashkansky, Jason Black, Andrew Bleeker, Serge Le Huitouze and Mark Johnson",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 670
+  },
+  {
+    "title": "AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging",
+    "authors": "Bill Yuchen Lin, Dong-Ho Lee, Frank F. Xu, Ouyu Lan and Xiang Ren",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 671
+  },
+  {
+    "title": "ConvLab: Multi-Domain End-to-End Dialog System Platform",
+    "authors": "Sungjin Lee, Qi Zhu, Ryuichi Takanobu, Xiang Li, Yaoqin Zhang, Zheng Zhang, Jinchao Li, Baolin Peng, Xiujun Li, Minlie Huang and Jianfeng Gao",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 672
+  },
+  {
+    "title": "Demonstration of a Neural Machine Translation System with Online Learning for Translators",
+    "authors": "Miguel Domingo, Mercedes García-Martínez, Amando Estela Pastor, Laurent Bié, Alexander Helle, Álvaro Peris, Francisco Casacuberta and Manuel Herranz Pérez",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 673
+  },
+  {
+    "title": "FASTDial: Abstracting Dialogue Policies for Fast Development of Task Oriented Agents",
+    "authors": "Serra Sinem Tekiroglu, Bernardo Magnini and Marco Guerini",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 674
+  },
+  {
+    "title": "A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks",
+    "authors": "Álvaro Peris and Francisco Casacuberta",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 675
+  },
+  {
+    "title": "NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit",
+    "authors": "Liqun Liu, Funan Mu, Pengyu Li, Xin Mu, Jing Tang, Xingsheng Ai, Ran Fu, Lifeng Wang and Xing Zhou",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 676
+  },
+  {
+    "title": "ADVISER: A Dialog System Framework for Education & Research",
+    "authors": "Daniel Ortega, Dirk Väth, Gianna Weber, Lindsey Vanderlyn, Maximilian Schmidt, Moritz Völkel, Zorica Karacevic and Ngoc Thang Vu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 677
+  },
+  {
+    "title": "KCAT: A Knowledge-Constraint Typing Annotation Tool",
+    "authors": "Sheng Lin, Luye Zheng, Bo Chen, Siliang Tang, Zhigang Chen, Guoping Hu, Yueting Zhuang, Fei Wu and Xiang Ren",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 678
+  },
+  {
+    "title": "An Environment for the Relational Annotation of Political Debates",
+    "authors": "Andre Blessing, Nico Blokker, Sebastian Haunss, Jonas Kuhn, Gabriella Lapesa and Sebastian Padó",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 679
+  },
+  {
+    "title": "GLTR: Statistical Detection and Visualization of Generated Text",
+    "authors": "Sebastian Gehrmann, Hendrik Strobelt and Alexander Rush",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 680
+  },
+  {
+    "title": "OpenKiwi: An Open Source Framework for Quality Estimation",
+    "authors": "Fabio Kepler, Jonay Trenous, Marcos Treviso, Miguel Vera and André F. T. Martins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 681
+  },
+  {
+    "title": "Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling",
+    "authors": "Vighnesh Leonardo Shiv, Chris Quirk, Anshuman Suri, Xiang Gao, Khuram Shahid, Nithya Govindarajan, Yizhe Zhang, Jianfeng Gao, Michel Galley, Chris Brockett, Tulasi Menon and Bill Dolan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 682
+  },
+  {
+    "title": "PerspectroScope: A Window to the World of Diverse Perspectives",
+    "authors": "Sihao Chen, Daniel Khashabi, Chris Callison- Burch and Dan Roth",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 683
+  },
+  {
+    "title": "HEIDL: Learning Linguistic Expressions with Deep Learning and Human-in-the- Loop",
+    "authors": "Prithviraj Sen, Yunyao Li, Eser Kandogan, Yiwei Yang and Walter Lasecki",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 684
+  },
+  {
+    "title": "My Turn To Read: An Interleaved E-book Reading Tool for Developing and Struggling Readers",
+    "authors": "Nitin Madnani, Beata Beigman Klebanov, Anastassia Loukina, Binod Gyawali, John Sabatini, Patrick Lange, Michael Flor",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 685
+  },
+  {
+    "title": "GrapAL: Connecting the Dots in Scientific Literature",
+    "authors": "Christine Betts, Joanna Power and Waleed Ammar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 686
+  },
+  {
+    "title": "ClaimPortal: Integrated Monitoring, Searching, Checking, and Analytics of Factual Claims on Twitter",
+    "authors": "Sarthak Majithia, Fatma Arslan, Sumeet Lubal, Damian Jimenez, Priyank Arora, Josue Caraballo and Chengkai Li",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 687
+  },
+  {
+    "title": "Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation",
+    "authors": "Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, Junxian He, Lianhui Qin, Di Wang, Xuezhe Ma, Zhengzhong Liu, Xiaodan Liang, Wanrong Zhu, Devendra Sachan and Eric Xing",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 688
+  },
+  {
+    "title": "Parallax: Visualizing and Understanding the Semantics of Embedding Spaces via Algebraic Formulae",
+    "authors": "Piero Molino, Yang Wang and Jiawei Zhang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 689
+  },
+  {
+    "title": "Flambé: A Customizable Framework for Multistage Natural Language Processing Experiments",
+    "authors": "Jeremy Wohlwend, Nicholas Matthews and Ivan Itzcovich",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 690
+  },
+  {
+    "title": "A Modular Tool for Automatic Summarization",
+    "authors": "Valentin Nyzam and Aurélien Bossard",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 691
+  },
+  {
+    "title": "TARGER: Neural Argument Mining at Your Fingertips",
+    "authors": "Artem Chernodub, Oleksiy Oliynyk, Philipp Heidenreich, Alexander Bondarenko, Matthias Hagen, Chris Biemann and Alexander Panchenko",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 692
+  },
+  {
+    "title": "MoNoise: A Multi-lingual and Easy-to-use Lexical Normalization Tool",
+    "authors": "Rob van der Goot",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 693
+  },
+  {
+    "title": "Level-Up: Learning to Improve Proficiency Level of Essays",
+    "authors": "Wen-Bin Han, Jhih-Jie Chen, Chingyu Yang and Jason Chang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 694
+  },
+  {
+    "title": "Learning to Link Grammar and Encyclopedic Information of Assist ESL Learners",
+    "authors": "Jhih-Jie Chen, Chingyu Yang, Peichen Ho, Ming Chiao Tsai, Chia-Fang Ho, Kai-Wen Tuan, Chung- Ting Tsai, Wen-Bin Han and Jason Chang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 695
+  },
+  {
+    "title": "STUDENT RESEARCH WORKSHOP PAPERS",
+    "authors": "BACK TO TOP",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 696
+  },
+  {
+    "title": "A computational linguistic study of personal recovery in bipolar disorder",
+    "authors": "Glorianna Jagfeld",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 697
+  },
+  {
+    "title": "A Japanese Word Segmentation Proposal",
+    "authors": "Stalin Aguirre and Josafá Aguiar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 698
+  },
+  {
+    "title": "A Strong and Robust Baseline for Text-Image Matching",
+    "authors": "Fangyu Liu and Rongtian Ye",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 699
+  },
+  {
+    "title": "Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy",
+    "authors": "Diana Galvan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 700
+  },
+  {
+    "title": "Analyzing and Mitigating Gender Bias in Languages with Grammatical Gender and Bilingual Word Embeddings",
+    "authors": "Pei Zhou, Weijia Shi, Jieyu Zhao, Kuan-Hao Huang, Muhao Chen and Kai-Wei Chang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 701
+  },
+  {
+    "title": "Annotating and Analyzing Semantic Role of Elementary Units and Relations in Online Persuasive Arguments",
+    "authors": "Ryo Egawa, Gaku Morio and Katsuhide Fujita",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 702
+  },
+  {
+    "title": "ARHNet - Leveraging Community Interaction For Detection Of Religious Hate Speech In Arabic",
+    "authors": "Arijit Ghosh Chowdhury, Aniket Didolkar, Ramit Sawhney and Rajiv Ratn Shah",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 703
+  },
+  {
+    "title": "Attention and Lexicon Regularized LSTM for Aspcet-based Sentiment Analysis",
+    "authors": "Lingxian Bao, Patrik Lambert and Toni Badia",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 704
+  },
+  {
+    "title": "Attention over Heads: A Multi-Hop Attention for Neural Machine Translation",
+    "authors": "Shohei Iida, Ryuichiro Kimura, Hongyi Cui, Po-Hsuan Hung, Takehito Utsuro and Masaaki Nagata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 705
+  },
+  {
+    "title": "Automated Cross-language Intelligibility Analysis of Parkinson's Disease Patients Using Speech Recognition Technologies",
+    "authors": "Nina Hosseini-Kivanani, Juan Camilo Vásquez-Correa, Manfred Stede and Elmar Nöth",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 706
+  },
+  {
+    "title": "Automatic Data-Driven Approaches for Evaluating the Phonemic Verbal Fluency Task with Healthy Adults",
+    "authors": "Hali Lindsay, Nicklas Linz and Johannes Tröger",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 707
+  },
+  {
+    "title": "Automatic Generation of Personalized Comment Based on User Profile",
+    "authors": "Wenhuan Zeng, Abulikemu Abuduweili, Lei Li and Pengcheng Yang",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 708
+  },
+  {
+    "title": "BREAKING! Presenting fake news corpus for automated fact checking",
+    "authors": "Archita Pathak and Rohini Srihari",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 709
+  },
+  {
+    "title": "Computational ad hominem detection",
+    "authors": "Pieter Delobelle, Murilo Cunha, Eric Massip Cano, Jeroen Peperkamp and Bettina Berendt",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 710
+  },
+  {
+    "title": "Controllable Text Simplification with Lexical Constraint Loss",
+    "authors": "Daiki Nishihara, Tomoyuki Kajiwara and Yuki Arase",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 711
+  },
+  {
+    "title": "Controlling Grammatical Error Correction Using Word Edit Rate",
+    "authors": "Kengo Hotate, Masahiro Kaneko, Satoru Katsumata and Mamoru Komachi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 712
+  },
+  {
+    "title": "Convolutional Neural Networks for Financial Text Regression",
+    "authors": "Neşat Dereli and Murat Saraclar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 713
+  },
+  {
+    "title": "Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data",
+    "authors": "Vamshi Krishna Srirangam, Appidi Abhinav Reddy, Vinay Singh and Manish Shrivastava",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 714
+  },
+  {
+    "title": "Corpus Creation and Baseline System for Aggression Detection in Telugu-English Code-Mixed Social Media Data",
+    "authors": "Koushik Reddy Sane, Sushmitha Reddy Sane, Sairam Kolla and Radhika Mamidi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 715
+  },
+  {
+    "title": "Cross-domain and Cross-lingual Abusive Language Detection: a Hybrid Approach with Deep Learning and a Multilingual Lexicon",
+    "authors": "Endang Wahyu Pamungkas and Viviana Patti",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 716
+  },
+  {
+    "title": "De-Mixing Sentiment from Code-Mixed Text",
+    "authors": "Yash Kumar Lal, Vaibhav Kumar, Mrinal Dhar, Manish Shrivastava and Philipp Koehn",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 717
+  },
+  {
+    "title": "Deep Neural Models for Medical Concept Normalization in User-Generated Texts",
+    "authors": "Zulfat Miftahutdinov and Elena Tutubalina",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 718
+  },
+  {
+    "title": "Detecting Political Bias in News Articles Using Headline Attention",
+    "authors": "Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi and Radhika Mamidi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 719
+  },
+  {
+    "title": "Developing OntoSenseNet: A Verb-Centric Ontological Resource for Indian Languages and Analysing Stylometric Difference in Men and Women Writing using the Resource",
+    "authors": "Jyoti Jha and Navjyoti Singh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 720
+  },
+  {
+    "title": "Dialogue-Act Prediction of Future Responses based on Conversation History",
+    "authors": "Koji Tanaka, Junya Takayama and Yuki Arase",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 721
+  },
+  {
+    "title": "Distributed Knowledge Based Clinical Auto-Coding System",
+    "authors": "Rajvir Kaur",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 722
+  },
+  {
+    "title": "Embedding Strategies for Specialized Domains: Application to Clinical Entity Recognition",
+    "authors": "Hicham El Boukkouri, Olivier Ferret, Thomas Lavergne and Pierre Zweigenbaum",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 723
+  },
+  {
+    "title": "English-Indonesian Neural Machine Translation for Spoken Language Domains",
+    "authors": "Meisyarah Dwiastuti",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 724
+  },
+  {
+    "title": "Enriching Neural Models with Targeted Features for Dementia Detection",
+    "authors": "Flavio Di Palo and Natalie Parde",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 725
+  },
+  {
+    "title": "Exploring the potential of Neural Networks for Extracting Adverse Drug Reactions from Biomedical Texts",
+    "authors": "Ilseyar Alimova and Elena Tutubalina",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 726
+  },
+  {
+    "title": "Fact or Factitious? Contextualized Opinion Spam Detection",
+    "authors": "Stefan Kennedy, Niall Walsh, Kirils Sloka, Andrew McCarren and Jennifer Foster",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 727
+  },
+  {
+    "title": "From Bilingual to Multilingual Neural Machine Translation by Incremental Training",
+    "authors": "Carlos Escolano, Marta R. Costa-jussà and José A. R. Fonollosa",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 728
+  },
+  {
+    "title": "From brain space to distributional space: the perilous journeys of fMRI decoding",
+    "authors": "Gosse Minnema and Aurélie Herbelot",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 729
+  },
+  {
+    "title": "Gender Stereotypes Differ between Male and Female Writings",
+    "authors": "Yusu Qian",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 730
+  },
+  {
+    "title": "Hierarchical Multi-label Classification of Text with Capsule Networks",
+    "authors": "Rami Aly, Steffen Remus and Chris Biemann",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 731
+  },
+  {
+    "title": "Imperceptible Adversarial Examples for Automatic Speech Recognition",
+    "authors": "Yao Qin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 732
+  },
+  {
+    "title": "Improving Mongolian-Chinese Neural Machine Translation with Morphological Noise",
+    "authors": "Yatu Ji, Hongxu Hou, Chen Junjie and Nier Wu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 733
+  },
+  {
+    "title": "Improving Neural Entity Disambiguation with Graph Embeddings",
+    "authors": "Özge Sevgili, Alexander Panchenko and Chris Biemann",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 734
+  },
+  {
+    "title": "Incorporating Textual Information on User Behavior for Personality Prediction",
+    "authors": "Kosuke Yamada, Ryohei Sasano and Koichi Takeda",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 735
+  },
+  {
+    "title": "Investigating Political Herd Mentality: A Community Sentiment based Approach",
+    "authors": "Anjali Bhavan, Rohan Mishra, Pradyumna Prakhar Sinha, Ramit Sawhney and Rajiv Ratn Shah",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 736
+  },
+  {
+    "title": "Joint Learning of Named Entity Recognition and Entity Linking",
+    "authors": "Pedro Henrique Martins, Zita Marinho and André F. T. Martins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 737
+  },
+  {
+    "title": "Knowledge discovery and hypothesis generation from online patient forums: A research proposal",
+    "authors": "Anne Dirkson",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 738
+  },
+  {
+    "title": "Long-Distance Dependencies don't have to be Long: Simplifying through Provably (Approximately) Optimal Permutations",
+    "authors": "Rishi Bommasani",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 739
+  },
+  {
+    "title": "Māori Loanwords: A Corpus of New Zealand English Tweets",
+    "authors": "David Trye, Andreea Calude, Felipe Bravo-Marquez and Te Taka Keegan",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 740
+  },
+  {
+    "title": "Measuring the Value of Linguistics: A Case Study from St. Lawrence Island Yupik",
+    "authors": "Emily Chen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 741
+  },
+  {
+    "title": "Multilingual model using cross-task embedding projection",
+    "authors": "Jin Sakuma and Naoki Yoshinaga",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 742
+  },
+  {
+    "title": "Multimodal Logical Inference System for Visual-Textual Entailment",
+    "authors": "Riko Suzuki, Hitomi Yanaka, Masashi Yoshikawa, Koji Mineshima and Daisuke Bekki",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 743
+  },
+  {
+    "title": "Multiple Character Embeddings for Chinese Word Segmentation",
+    "authors": "Jianing Zhou, Jingkang Wang and Gongshen Liu",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 744
+  },
+  {
+    "title": "Natural Language Generation: Recently Learned Lessons, Directions for Semantic Representation-based Approaches, and the case of Brazilian Portuguese Language",
+    "authors": "Marco Antonio Sobrevilla Cabezudo and Thiago Pardo",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 745
+  },
+  {
+    "title": "Normalizing Non-canonical Turkish Texts Using Machine Translation Approaches",
+    "authors": "Talha Çolakoğlu, Umut Sulubacak and Ahmet Cüneyd Tantuğ",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 746
+  },
+  {
+    "title": "Not All Reviews are Equal: Towards Addressing Reviewer Biases for Opinion Summarization",
+    "authors": "Wenyi Tay",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 747
+  },
+  {
+    "title": "On Dimensional Linguistic Properties of the Word Embedding Space",
+    "authors": "Vikas Raunak, Vaibhav Kumar, Vivek Gupta and Florian Metze",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 748
+  },
+  {
+    "title": "On the impressive performance of randomly weighted encoders in summarization tasks",
+    "authors": "Jonathan Pilault, Jaehong Park and Christopher Pal",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 749
+  },
+  {
+    "title": "Paraphrases as Foreign Languages in Multilingual Neural Machine Translation",
+    "authors": "Zhong Zhou, Matthias Sperber and Alexander Waibel",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 750
+  },
+  {
+    "title": "Predicting the Outcome of Deliberative Democracy: A Research Proposal",
+    "authors": "Conor McKillop",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 751
+  },
+  {
+    "title": "Public Mood Variations in Russia based on Vkontakte Content",
+    "authors": "Sergey Smetanin",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 752
+  },
+  {
+    "title": "Question Answering in the Biomedical Domain",
+    "authors": "Vincent Nguyen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 753
+  },
+  {
+    "title": "Ranking of Potential Questions",
+    "authors": "Luise Schricker and Tatjana Scheffler",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 754
+  },
+  {
+    "title": "Reducing Gender Bias in Word-Level Language Models with A Gender-Equalizing Loss Function",
+    "authors": "Yusu Qian, Urwa Muaz, Ben Zhang and Jae Won Hyun",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 755
+  },
+  {
+    "title": "Robust to Noise Models in Natural Language Processing Tasks",
+    "authors": "Valentin Malykh",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 756
+  },
+  {
+    "title": "Scheduled Sampling for Transformers",
+    "authors": "Tsvetomila Mihaylova and André F. T. Martins",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 757
+  },
+  {
+    "title": "Sentence Level Curriculum Learning for Improved Neural Conversational Models",
+    "authors": "Sean Paulsen",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 758
+  },
+  {
+    "title": "Sentiment Analysis on Naija-Tweets",
+    "authors": "Taiwo Kolajo, Olawande Daramola and Ayodele Adebiyi",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 759
+  },
+  {
+    "title": "Sentiment Classification using Document Embeddings trained with Cosine Similarity",
+    "authors": "Tan Thongtan and Tanasanee Phienthrakul",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 760
+  },
+  {
+    "title": "STRASS: A Light and Effective Method for Extractive Summarization Based on Sentence Embeddings",
+    "authors": "Léo Bouscarrat, Antoine Bonnefoy, Thomas Peel and Cécile Pereira",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 761
+  },
+  {
+    "title": "Towards incremental learning of word embeddings using context informativeness",
+    "authors": "Alexandre Kabbach, Kristina Gulordava and Aurélie Herbelot",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 762
+  },
+  {
+    "title": "Towards Turkish Abstract Meaning Representation",
+    "authors": "Zahra Azin and Gülşen Eryiğit",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 763
+  },
+  {
+    "title": "Transfer Learning Based Free-Form Speech Command Classification for Low-Resource Languages",
+    "authors": "Yohan Karunanayake, Uthayasanker Thayasivam and Surangika Ranathunga",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 764
+  },
+  {
+    "title": "Unsupervised Learning of Discourse-Aware Text Representation for Essay Scoring",
+    "authors": "Farjana Sultana Mim, Naoya Inoue, Paul Reisert, Hiroki Ouchi and Kentaro Inui",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 765
+  },
+  {
+    "title": "Unsupervised Pretraining for Neural Machine Translation Using Elastic Weight Consolidation",
+    "authors": "Dušan Variš and Ondřej Bojar",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 766
+  },
+  {
+    "title": "Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation",
+    "authors": "Go Yasui, Yoshimasa Tsuruoka and Masaaki Nagata",
+    "review": "",
+    "link": "",
+    "tags": [],
+    "order": 767
+  }
+]
