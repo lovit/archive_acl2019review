@@ -23,9 +23,9 @@ def as_markdown(articles):
         order = article['order']
 
         if article['link']:
-            title = ' [{}]({})'.format(article['title'], article['link'])
+            title = '[{}]({})'.format(article['title'], article['link'])
         else:
-            title = ' {}'.format(article['title'])
+            title = '{}'.format(article['title'])
 
         if article['review']:
             review = ', [review]({})'.format(article['review'])
