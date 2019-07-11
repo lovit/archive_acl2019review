@@ -10,10 +10,12 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--update_readme', dest='update_readme', action='store_true')
     parser.add_argument('--add_tag', type=str, default='', help='space separated. first item is tag and others is index')
+    parser.add_argument('--add_link', type=str, default='', help='space separated. first is index second is url')
 
     args = parser.parse_args()
     update_readme = args.update_readme
     tag_args = args.add_tag
+    link_args = args.add_link
 
     if tag_args:
         update_readme = True
@@ -27,6 +29,18 @@ def main():
             tags = set(article['tags'])
             tags.add(tag)
             article['tags'] = list(tags)
+        save_article(articles)
+
+    if link_args:
+        update_readme = True
+        args = link_args.split()
+        n_args = int(len(args) / 2)
+        idxs = [int(args[2*i]) for i in range(n_args)]
+        urls = [args[2*i+1] for i in range(n_args)]
+        articles = load()
+        for idx, url in zip(idxs, urls):
+            article = articles[idx]
+            article['link'] = url
         save_article(articles)
 
     if update_readme:
