@@ -34,6 +34,7 @@ def as_markdown(articles):
 
         if article['tags']:
             tags = ', '.join('`{}`'.format(tag) for tag in article['tags'])
+            tags = ' [{}]'.format(tags)
         else:
             tags = ''
     
