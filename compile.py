@@ -1,6 +1,10 @@
 import argparse
+import json
 from make_readme import load, as_markdown
 
+def save_article(articles):
+    with open('acl2019list.json', 'w', encoding='utf-8') as f:
+        json.dump(articles, f, indent=2, ensure_ascii=False)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -9,7 +13,21 @@ def main():
 
     args = parser.parse_args()
     update_readme = args.update_readme
-    tags = args.add_tag
+    tag_args = args.add_tag
+
+    if tag_args:
+        update_readme = True
+        tag_items = tag_args.split()
+        tag = tag_items[0]
+        items = {int(idx) for idx in tag_items[1:]}
+
+        articles = load()
+        for idx in items:
+            article = articles[idx]
+            tags = set(article['tags'])
+            tags.add(tag)
+            article['tags'] = list(tags)
+        save_article(articles)
 
     if update_readme:
         articles = load()
