@@ -351,7 +351,7 @@
 (116) **A Corpus for Reasoning About Natural Language Grounded in Photographs**
 , Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai and Yoav Artzi
 
-(117) **Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning**`NER`
+(117) **, [Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning](https://arxiv.org/abs/1906.01378)**`NER`
 , Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu and Xuanjing Huang
 
 (118) **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**`NER`
@@ -429,7 +429,7 @@
 (142) **On-device Structured and Context Partitioned Projection Networks**
 , Sujith Ravi and Zornitsa Kozareva
 
-(143) **Multi-grained Named Entity Recognition**`NER`
+(143) **, [Multi-grained Named Entity Recognition](https://arxiv.org/abs/1906.08449)**`NER`
 , Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wu, Wei Fan, Fenglong Ma and Philip Yu
 
 (144) **What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues**

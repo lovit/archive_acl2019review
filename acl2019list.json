@@ -939,7 +939,7 @@
     "title": "Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning",
     "authors": "Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu and Xuanjing Huang",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1906.01378",
     "tags": [
       "NER"
     ],
@@ -1153,7 +1153,7 @@
     "title": "Multi-grained Named Entity Recognition",
     "authors": "Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wu, Wei Fan, Fenglong Ma and Philip Yu",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1906.08449",
     "tags": [
       "NER"
     ],
