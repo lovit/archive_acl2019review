@@ -357,7 +357,7 @@
 (118) **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**, [`NER`]
 , Joey Tianyi Zhou, Hao Zhang, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok
 
-(119) **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data**, [`NER`]
+(119) **[Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data](https://arxiv.org/abs/1906.08931)**, [`NER`]
 , Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang
 
 (120) **Topic-Aware Neural Keyphrase Generation for Social Media Language**
@@ -627,7 +627,7 @@
 (208) **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**
 , Yichen Jiang, Nitish Joshi, Yen-Chun Chen and Mohit Bansal
 
-(209) **Low-resource Deep Entity Resolution with Transfer and Active Learning**, [`NER`]
+(209) **[Low-resource Deep Entity Resolution with Transfer and Active Learning](https://arxiv.org/abs/1906.08042)**, [`NER`]
 , Jungo Kasai, Kun Qian, Sairam Gurajada, Yunyao Li and Lucian Popa
 
 (210) **A Large-Scale Corpus for Conversation Disentanglement**
@@ -678,7 +678,7 @@
 (225) **AMR Parsing as Sequence-to-Graph Transduction**
 , Sheng Zhang, Xutai Ma, Kevin Duh and Benjamin Van Durme
 
-(226) **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [`NER`]
+(226) **[Boosting Entity Linking Performance by Leveraging Unlabeled Documents](https://arxiv.org/abs/1906.01250)**, [`NER`]
 , Phong Le and Ivan Titov
 
 (227) **Gender-preserving Debiasing for Pre-trained Word Embeddings**
@@ -732,7 +732,7 @@
 (243) **Symbolic inductive bias for visually grounded learning of spoken language**
 , Grzegorz Chrupała
 
-(244) **Merge and Label: A novel neural network architecture for nested NER**, [`NER`]
+(244) **[Merge and Label: A novel neural network architecture for nested NER](https://arxiv.org/abs/1907.00464)**, [`NER`]
 , Joseph Fisher and Andreas Vlachos
 
 (245) **Classification and Clustering of Arguments with Contextualized Word Embeddings**
@@ -1116,7 +1116,7 @@
 (371) **Training Neural Response Selection for Task-Oriented Dialogue Systems**
 , Matthew Henderson, Ivan Vulić, Daniela Gerz, Iñigo Casanueva, Paweł Budzianowski, Sam Coope, Georgios Spithourakis, Tsung-Hsien Wen, Nikola Mrkšić and Pei-Hao Su
 
-(372) **Cross-Domain NER using Cross-Domain Language Modeling**, [`NER`]
+(372) **[Cross-Domain NER using Cross-Domain Language Modeling](https://frcchang.github.io/pub/acl19.jiachen.pdf)**, [`NER`]
 , Chen Jia, Xiaobo Liang and Yue Zhang
 
 (373) **Improving Multi-turn Dialogue Modelling with Utterance ReWriter**
@@ -1380,7 +1380,7 @@
 (459) **The Referential Reader: A Recurrent Entity Network for Anaphora Resolution**
 , Fei Liu, Luke Zettlemoyer and Jacob Eisenstein
 
-(460) **A Neural Multi-digraph Model for Chinese NER with Gazetteers**, [`NER`]
+(460) **[A Neural Multi-digraph Model for Chinese NER with Gazetteers](http://www.statnlp.org/research/ta/ruixue-acl19-ner.pdf)**, [`NER`]
 , Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si
 
 (461) **Neural Architectures for Nested NER through Linearization**, [`NER`]
@@ -1584,7 +1584,7 @@
 (527) **Improving Open Information Extraction via Iterative Rank-Aware Learning**
 , Zhengbao Jiang, Pengcheng Yin and Graham Neubig
 
-(528) **Joint Entity Extraction and Assertion Detection for Clinical Text**, [`NER`]
+(528) **[Joint Entity Extraction and Assertion Detection for Clinical Text](https://arxiv.org/abs/1812.05270)**, [`NER`]
 , Parminder Bhatia, Busra Celikkaya and Mohammed Khalilia
 
 (529) **Neural News Recommendation with Topic-Aware News Representation**

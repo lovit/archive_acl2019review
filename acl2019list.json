@@ -959,7 +959,7 @@
     "title": "Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data",
     "authors": "Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1906.08931",
     "tags": [
       "NER"
     ],
@@ -1685,7 +1685,7 @@
     "title": "Low-resource Deep Entity Resolution with Transfer and Active Learning",
     "authors": "Jungo Kasai, Kun Qian, Sairam Gurajada, Yunyao Li and Lucian Popa",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1906.08042",
     "tags": [
       "NER"
     ],
@@ -1823,7 +1823,7 @@
     "title": "Boosting Entity Linking Performance by Leveraging Unlabeled Documents",
     "authors": "Phong Le and Ivan Titov",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1906.01250",
     "tags": [
       "NER"
     ],
@@ -1969,7 +1969,7 @@
     "title": "Merge and Label: A novel neural network architecture for nested NER",
     "authors": "Joseph Fisher and Andreas Vlachos",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1907.00464",
     "tags": [
       "NER"
     ],
@@ -2997,7 +2997,7 @@
     "title": "Cross-Domain NER using Cross-Domain Language Modeling",
     "authors": "Chen Jia, Xiaobo Liang and Yue Zhang",
     "review": "",
-    "link": "",
+    "link": "https://frcchang.github.io/pub/acl19.jiachen.pdf",
     "tags": [
       "NER"
     ],
@@ -3703,7 +3703,7 @@
     "title": "A Neural Multi-digraph Model for Chinese NER with Gazetteers",
     "authors": "Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si",
     "review": "",
-    "link": "",
+    "link": "http://www.statnlp.org/research/ta/ruixue-acl19-ner.pdf",
     "tags": [
       "NER"
     ],
@@ -4253,7 +4253,7 @@
     "title": "Joint Entity Extraction and Assertion Detection for Clinical Text",
     "authors": "Parminder Bhatia, Busra Celikkaya and Mohammed Khalilia",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/abs/1812.05270",
     "tags": [
       "NER"
     ],
