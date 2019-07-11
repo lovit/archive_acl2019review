@@ -47,4 +47,4 @@ def as_markdown(articles):
         for article in revieweds + notyets:
             f.write('{}\n'.format(as_text(article)))
 
-as_markdown(load())
+    print('README.md has been updated.')
