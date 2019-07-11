@@ -940,7 +940,9 @@
     "authors": "Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu and Xuanjing Huang",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 117
   },
   {
@@ -948,7 +950,9 @@
     "authors": "Joey Tianyi Zhou, Hao Zhang, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 118
   },
   {
@@ -956,7 +960,9 @@
     "authors": "Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 119
   },
   {
@@ -1148,7 +1154,9 @@
     "authors": "Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wu, Wei Fan, Fenglong Ma and Philip Yu",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 143
   },
   {
@@ -1204,7 +1212,9 @@
     "authors": "Genady Beryozkin, Yoel Drori, Oren Gilon, Tzvika Hartman and Idan Szpektor",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 150
   },
   {
@@ -1676,7 +1686,9 @@
     "authors": "Jungo Kasai, Kun Qian, Sairam Gurajada, Yunyao Li and Lucian Popa",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 209
   },
   {
@@ -1812,7 +1824,9 @@
     "authors": "Phong Le and Ivan Titov",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 226
   },
   {
@@ -1956,7 +1970,9 @@
     "authors": "Joseph Fisher and Andreas Vlachos",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 244
   },
   {
@@ -2452,7 +2468,9 @@
     "authors": "Afshin Rahimi, Yuan Li and Trevor Cohn",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 306
   },
   {
@@ -2980,7 +2998,9 @@
     "authors": "Chen Jia, Xiaobo Liang and Yue Zhang",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 372
   },
   {
@@ -3684,7 +3704,9 @@
     "authors": "Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 460
   },
   {
@@ -3692,7 +3714,9 @@
     "authors": "Jana Straková, Milan Straka and Jan Hajic",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 461
   },
   {
@@ -3788,7 +3812,9 @@
     "authors": "Nicky Ringland, Xiang Dai, Ben Hachey, Sarvnaz Karimi, Cecile Paris and James R. Curran",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 473
   },
   {
@@ -4228,7 +4254,9 @@
     "authors": "Parminder Bhatia, Busra Celikkaya and Mohammed Khalilia",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 528
   },
   {
@@ -4348,7 +4376,9 @@
     "authors": "Tianyu Liu, Jin-Ge Yao and Chin-Yew Lin",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 543
   },
   {
@@ -4668,7 +4698,9 @@
     "authors": "Ravneet Arora, Chen-Tse Tsai, Ketevan Tsereteli, Prabhanjan Kambadur and Yi Yang",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 583
   },
   {
@@ -5716,7 +5748,9 @@
     "authors": "Vamshi Krishna Srirangam, Appidi Abhinav Reddy, Vinay Singh and Manish Shrivastava",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 714
   },
   {
@@ -5876,7 +5910,9 @@
     "authors": "Özge Sevgili, Alexander Panchenko and Chris Biemann",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 734
   },
   {
@@ -5900,7 +5936,9 @@
     "authors": "Pedro Henrique Martins, Zita Marinho and André F. T. Martins",
     "review": "",
     "link": "",
-    "tags": [],
+    "tags": [
+      "NER"
+    ],
     "order": 737
   },
   {
