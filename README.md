@@ -351,13 +351,13 @@
 (116) **A Corpus for Reasoning About Natural Language Grounded in Photographs**
 , Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai and Yoav Artzi
 
-(117) **[Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning](https://arxiv.org/abs/1906.01378)**, [`NER`]
+(117) **[Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning](https://arxiv.org/abs/1906.01378)**, `[NER]`
 , Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu and Xuanjing Huang
 
-(118) **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**, [`NER`]
+(118) **Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition**, `[NER]`
 , Joey Tianyi Zhou, Hao Zhang, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh and Kenneth Kwok
 
-(119) **[Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data](https://arxiv.org/abs/1906.08931)**, [`NER`]
+(119) **[Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data](https://arxiv.org/abs/1906.08931)**, `[NER]`
 , Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen and Shikun Zhang
 
 (120) **Topic-Aware Neural Keyphrase Generation for Social Media Language**
@@ -429,7 +429,7 @@
 (142) **On-device Structured and Context Partitioned Projection Networks**
 , Sujith Ravi and Zornitsa Kozareva
 
-(143) **[Multi-grained Named Entity Recognition](https://arxiv.org/abs/1906.08449)**, [`NER`]
+(143) **[Multi-grained Named Entity Recognition](https://arxiv.org/abs/1906.08449)**, `[NER]`
 , Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wu, Wei Fan, Fenglong Ma and Philip Yu
 
 (144) **What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues**
@@ -450,7 +450,7 @@
 (149) **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling**
 , Yifan Gao, Piji Li, Irwin King and Michael R. Lyu
 
-(150) **A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy**, [`NER`]
+(150) **A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy**, `[NER]`
 , Genady Beryozkin, Yoel Drori, Oren Gilon, Tzvika Hartman and Idan Szpektor
 
 (151) **Data-to-text Generation with Entity Modeling**
@@ -627,7 +627,7 @@
 (208) **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**
 , Yichen Jiang, Nitish Joshi, Yen-Chun Chen and Mohit Bansal
 
-(209) **[Low-resource Deep Entity Resolution with Transfer and Active Learning](https://arxiv.org/abs/1906.08042)**, [`NER`]
+(209) **[Low-resource Deep Entity Resolution with Transfer and Active Learning](https://arxiv.org/abs/1906.08042)**, `[NER]`
 , Jungo Kasai, Kun Qian, Sairam Gurajada, Yunyao Li and Lucian Popa
 
 (210) **A Large-Scale Corpus for Conversation Disentanglement**
@@ -678,7 +678,7 @@
 (225) **AMR Parsing as Sequence-to-Graph Transduction**
 , Sheng Zhang, Xutai Ma, Kevin Duh and Benjamin Van Durme
 
-(226) **[Boosting Entity Linking Performance by Leveraging Unlabeled Documents](https://arxiv.org/abs/1906.01250)**, [`NER`]
+(226) **[Boosting Entity Linking Performance by Leveraging Unlabeled Documents](https://arxiv.org/abs/1906.01250)**, `[NER]`
 , Phong Le and Ivan Titov
 
 (227) **Gender-preserving Debiasing for Pre-trained Word Embeddings**
@@ -732,7 +732,7 @@
 (243) **Symbolic inductive bias for visually grounded learning of spoken language**
 , Grzegorz Chrupała
 
-(244) **[Merge and Label: A novel neural network architecture for nested NER](https://arxiv.org/abs/1907.00464)**, [`NER`]
+(244) **[Merge and Label: A novel neural network architecture for nested NER](https://arxiv.org/abs/1907.00464)**, `[NER]`
 , Joseph Fisher and Andreas Vlachos
 
 (245) **Classification and Clustering of Arguments with Contextualized Word Embeddings**
@@ -918,7 +918,7 @@
 (305) **DisSent: Learning Sentence Representations from Explicit Discourse Relations**
 , Allen Nie, Erin Bennett and Noah Goodman
 
-(306) **Massively Multilingual Transfer for NER**, [`NER`]
+(306) **Massively Multilingual Transfer for NER**, `[NER]`
 , Afshin Rahimi, Yuan Li and Trevor Cohn
 
 (307) **COMET: Commonsense Transformers for Automatic Knowledge Graph Construction**
@@ -1116,7 +1116,7 @@
 (371) **Training Neural Response Selection for Task-Oriented Dialogue Systems**
 , Matthew Henderson, Ivan Vulić, Daniela Gerz, Iñigo Casanueva, Paweł Budzianowski, Sam Coope, Georgios Spithourakis, Tsung-Hsien Wen, Nikola Mrkšić and Pei-Hao Su
 
-(372) **[Cross-Domain NER using Cross-Domain Language Modeling](https://frcchang.github.io/pub/acl19.jiachen.pdf)**, [`NER`]
+(372) **[Cross-Domain NER using Cross-Domain Language Modeling](https://frcchang.github.io/pub/acl19.jiachen.pdf)**, `[NER]`
 , Chen Jia, Xiaobo Liang and Yue Zhang
 
 (373) **Improving Multi-turn Dialogue Modelling with Utterance ReWriter**
@@ -1380,10 +1380,10 @@
 (459) **The Referential Reader: A Recurrent Entity Network for Anaphora Resolution**
 , Fei Liu, Luke Zettlemoyer and Jacob Eisenstein
 
-(460) **[A Neural Multi-digraph Model for Chinese NER with Gazetteers](http://www.statnlp.org/research/ta/ruixue-acl19-ner.pdf)**, [`NER`]
+(460) **[A Neural Multi-digraph Model for Chinese NER with Gazetteers](http://www.statnlp.org/research/ta/ruixue-acl19-ner.pdf)**, `[NER]`
 , Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li and Luo Si
 
-(461) **Neural Architectures for Nested NER through Linearization**, [`NER`]
+(461) **Neural Architectures for Nested NER through Linearization**, `[NER]`
 , Jana Straková, Milan Straka and Jan Hajic
 
 (462) **Aiming beyond the Obvious: Identifying Non-Obvious Cases in Semantic Similarity Datasets**
@@ -1419,7 +1419,7 @@
 (472) **Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network**
 , Sunil Kumar Sahu, Fenia Christopoulou, Makoto Miwa and Sophia Ananiadou
 
-(473) **NNE: A Dataset for Nested Named Entity Recognition in English Newswire**, [`NER`]
+(473) **NNE: A Dataset for Nested Named Entity Recognition in English Newswire**, `[NER]`
 , Nicky Ringland, Xiang Dai, Ben Hachey, Sarvnaz Karimi, Cecile Paris and James R. Curran
 
 (474) **Misleading Failures of Partial-input Baselines**
@@ -1584,7 +1584,7 @@
 (527) **Improving Open Information Extraction via Iterative Rank-Aware Learning**
 , Zhengbao Jiang, Pengcheng Yin and Graham Neubig
 
-(528) **[Joint Entity Extraction and Assertion Detection for Clinical Text](https://arxiv.org/abs/1812.05270)**, [`NER`]
+(528) **[Joint Entity Extraction and Assertion Detection for Clinical Text](https://arxiv.org/abs/1812.05270)**, `[NER]`
 , Parminder Bhatia, Busra Celikkaya and Mohammed Khalilia
 
 (529) **Neural News Recommendation with Topic-Aware News Representation**
@@ -1629,7 +1629,7 @@
 (542) **Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach**
 , Zonghan Yang, Yong Cheng, Yang Liu and Maosong Sun
 
-(543) **Towards Improving Neural Named Entity Recognition with Gazetteers**, [`NER`]
+(543) **Towards Improving Neural Named Entity Recognition with Gazetteers**, `[NER]`
 , Tianyu Liu, Jin-Ge Yao and Chin-Yew Lin
 
 (544) **Large-Scale Multi-Label Text Classification on EU Legislation**
@@ -1749,7 +1749,7 @@
 (582) **Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation**
 , Elizabeth Salesky, Matthias Sperber and Alan W Black
 
-(583) **A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition**, [`NER`]
+(583) **A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition**, `[NER]`
 , Ravneet Arora, Chen-Tse Tsai, Ketevan Tsereteli, Prabhanjan Kambadur and Yi Yang
 
 (584) **Robust Zero-Shot Cross-Domain Slot Filling with Example Values**
@@ -2142,7 +2142,7 @@
 (713) **Convolutional Neural Networks for Financial Text Regression**
 , Neşat Dereli and Murat Saraclar
 
-(714) **Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data**, [`NER`]
+(714) **Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data**, `[NER]`
 , Vamshi Krishna Srirangam, Appidi Abhinav Reddy, Vinay Singh and Manish Shrivastava
 
 (715) **Corpus Creation and Baseline System for Aggression Detection in Telugu-English Code-Mixed Social Media Data**
@@ -2202,7 +2202,7 @@
 (733) **Improving Mongolian-Chinese Neural Machine Translation with Morphological Noise**
 , Yatu Ji, Hongxu Hou, Chen Junjie and Nier Wu
 
-(734) **Improving Neural Entity Disambiguation with Graph Embeddings**, [`NER`]
+(734) **Improving Neural Entity Disambiguation with Graph Embeddings**, `[NER]`
 , Özge Sevgili, Alexander Panchenko and Chris Biemann
 
 (735) **Incorporating Textual Information on User Behavior for Personality Prediction**
@@ -2211,7 +2211,7 @@
 (736) **Investigating Political Herd Mentality: A Community Sentiment based Approach**
 , Anjali Bhavan, Rohan Mishra, Pradyumna Prakhar Sinha, Ramit Sawhney and Rajiv Ratn Shah
 
-(737) **Joint Learning of Named Entity Recognition and Entity Linking**, [`NER`]
+(737) **Joint Learning of Named Entity Recognition and Entity Linking**, `[NER]`
 , Pedro Henrique Martins, Zita Marinho and André F. T. Martins
 
 (738) **Knowledge discovery and hypothesis generation from online patient forums: A research proposal**
