@@ -18,12 +18,19 @@ def main():
     parser.add_argument('--add_tag', type=str, default='', help='space separated. first item is tag and others is index')
     parser.add_argument('--add_link', type=str, default='', help='space separated. first is index second is url')
     parser.add_argument('--prepare_review', type=str, default='', help='space separated indices')
+    parser.add_argument('--prefer_tags', type=str, default='', help='[ / ] separated')
 
     args = parser.parse_args()
     update_readme = args.update_readme
     tag_args = args.add_tag
     link_args = args.add_link
     prepare_review = args.prepare_review
+    if args.prefer_tags:
+        prefer_tags = set(args.prefer_tags.split(' / '))
+    else:
+        prefer_tags = None
+
+    print('Preference of tags : {}'.format(prefer_tags))
 
     articles = load()
 
@@ -52,7 +59,7 @@ def main():
         save_article(articles)
 
     if update_readme:
-        as_markdown(articles)
+        as_markdown(articles, prefer_tags)
 
     if prepare_review:
         idxs = [int(idx) for idx in prepare_review.split()]

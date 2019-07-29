@@ -6,9 +6,11 @@ def load():
     with open(json_path, encoding='utf-8') as f:
         return json.load(f)
 
-def as_markdown(articles):
+def as_markdown(articles, prefer_tags):
     def has_tag(article):
-        for tag in ["word embedding", "summarization"]:
+        if not prefer_tags:
+            return False
+        for tag in prefer_tags:
             if tag in article['tags']:
                 return True
         return False
