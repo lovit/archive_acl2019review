@@ -3,8 +3,8 @@
     "title": "SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings",
     "authors": "Chengyu Wang, XIAOFENG HE and Aoying Zhou",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://chywang.github.io/papers/acl2019.pdf",
+    "tags": ["word embedding"],
     "order": 0
   },
   {
@@ -331,8 +331,8 @@
     "title": "Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model",
     "authors": "Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://arxiv.org/pdf/1906.01749.pdf",
+    "tags": ["summarization"],
     "order": 41
   },
   {
@@ -843,8 +843,8 @@
     "title": "LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories",
     "authors": "Ignacio Iacobacci and Roberto Navigli",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1165",
+    "tags": ["word embedding"],
     "order": 105
   },
   {
@@ -1073,8 +1073,8 @@
     "title": "Understanding Undesirable Word Embedding Associations",
     "authors": "Kawin Ethayarajh, David Duvenaud and Graeme Hirst",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1166",
+    "tags": ["word embedding"],
     "order": 133
   },
   {
@@ -2019,8 +2019,8 @@
     "title": "A Simple Theoretical Model of Importance for Summarization",
     "authors": "Maxime Peyrard",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1101",
+    "tags": ["summarization"],
     "order": 250
   },
   {
@@ -2251,8 +2251,8 @@
     "title": "Unsupervised Discovery of Gendered Language through Latent-Variable Modeling",
     "authors": "Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://arxiv.org/pdf/1906.04760.pdf",
+    "tags": ["word embedding"],
     "order": 279
   },
   {
@@ -2693,8 +2693,8 @@
     "title": "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization",
     "authors": "Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://arxiv.org/pdf/1906.00072.pdf",
+    "tags": ["summarization"],
     "order": 334
   },
   {
@@ -3271,7 +3271,7 @@
     "title": "Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces",
     "authors": "Barun Patra, Joel Ruben Antony Moniz, Sarthak Garg, Matthew R. Gormley and Graham Neubig",
     "review": "",
-    "link": "",
+    "link": "https://www.aclweb.org/anthology/P19-1018",
     "tags": [],
     "order": 406
   },
@@ -3295,7 +3295,7 @@
     "title": "An Effective Approach to Unsupervised Machine Translation",
     "authors": "Mikel Artetxe, Gorka Labaka and Eneko Agirre",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/pdf/1902.01313.pdf",
     "tags": [],
     "order": 409
   },
@@ -3343,8 +3343,8 @@
     "title": "Global Optimization under Length Constraint for Neural Text Summarization",
     "authors": "Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1099",
+    "tags": ["summarization"],
     "order": 415
   },
   {
@@ -3487,8 +3487,8 @@
     "title": "Searching for Effective Neural Extractive Summarization: What Works and What’s Next",
     "authors": "Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://arxiv.org/pdf/1907.03491.pdf",
+    "tags": ["summarization"],
     "order": 433
   },
   {
@@ -3519,8 +3519,8 @@
     "title": "Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings",
     "authors": "Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://arxiv.org/pdf/1906.02688.pdf",
+    "tags": ["word embedding"],
     "order": 437
   },
   {
@@ -3941,7 +3941,7 @@
     "title": "Domain Adaptive Inference for Neural Machine Translation",
     "authors": "Danielle Saunders, Felix Stahlberg, Adrià de Gispert and Bill Byrne",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/pdf/1906.00408.pdf",
     "tags": [],
     "order": 489
   },
@@ -4271,7 +4271,7 @@
     "title": "Revisiting Low-Resource Neural Machine Translation: A Case Study",
     "authors": "Rico Sennrich and Biao Zhang",
     "review": "",
-    "link": "",
+    "link": "https://arxiv.org/pdf/1905.11901.pdf",
     "tags": [],
     "order": 530
   },
@@ -4835,7 +4835,7 @@
     "title": "Effective Adversarial Regularization for Neural Machine Translation",
     "authors": "Motoki Sato, Jun Suzuki and Shun Kiyono",
     "review": "",
-    "link": "",
+    "link": "https://www.aclweb.org/anthology/P19-1020",
     "tags": [],
     "order": 600
   },

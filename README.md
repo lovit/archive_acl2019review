@@ -1,7 +1,34 @@
 # Reviews of ACL 2019 Papers
 
-(0) **SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings**
+(0) **[SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings](https://chywang.github.io/papers/acl2019.pdf)**, `[word embedding]`
 , Chengyu Wang, XIAOFENG HE and Aoying Zhou
+
+(41) **[Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/pdf/1906.01749.pdf)**, `[summarization]`
+, Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev
+
+(105) **[LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories](https://www.aclweb.org/anthology/P19-1165)**, `[word embedding]`
+, Ignacio Iacobacci and Roberto Navigli
+
+(133) **[Understanding Undesirable Word Embedding Associations](https://www.aclweb.org/anthology/P19-1166)**, `[word embedding]`
+, Kawin Ethayarajh, David Duvenaud and Graeme Hirst
+
+(250) **[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101)**, `[summarization]`
+, Maxime Peyrard
+
+(279) **[Unsupervised Discovery of Gendered Language through Latent-Variable Modeling](https://arxiv.org/pdf/1906.04760.pdf)**, `[word embedding]`
+, Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell
+
+(334) **[Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](https://arxiv.org/pdf/1906.00072.pdf)**, `[summarization]`
+, Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu
+
+(415) **[Global Optimization under Length Constraint for Neural Text Summarization](https://www.aclweb.org/anthology/P19-1099)**, `[summarization]`
+, Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura
+
+(433) **[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://arxiv.org/pdf/1907.03491.pdf)**, `[summarization]`
+, Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang
+
+(437) **[Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings](https://arxiv.org/pdf/1906.02688.pdf)**, `[word embedding]`
+, Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti
 
 (1) **Learning from Dialogue after Deployment: Feed Yourself, Chatbot!**
 , Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare and Jason Weston
@@ -122,9 +149,6 @@
 
 (40) **Learning Deep Transformer Models for Machine Translation**
 , Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong and Lidia S. Chao
-
-(41) **Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model**
-, Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev
 
 (42) **Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation**
 , Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou
@@ -315,9 +339,6 @@
 (104) **A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction**
 , Mengjie Zhao and Hinrich Schütze
 
-(105) **LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories**
-, Ignacio Iacobacci and Roberto Navigli
-
 (106) **Word-order biases in deep-agent emergent communication**
 , Rahma Chaabouni, Evgeny Kharitonov, Alessandro Lazaric, Emmanuel Dupoux and Marco Baroni
 
@@ -398,9 +419,6 @@
 
 (132) **Learning Transferable Feature Representations Using Neural Networks**
 , Himanshu Sharad Bhatt, Shourya Roy, Arun Rajkumar and Sriranjani Ramakrishnan
-
-(133) **Understanding Undesirable Word Embedding Associations**
-, Kawin Ethayarajh, David Duvenaud and Graeme Hirst
 
 (134) **Exploring Sequence-to-Sequence Learning in Aspect Term Extraction**
 , Dehong Ma, Sujian Li, Fangzhao Wu, Xing Xie and Houfeng WANG
@@ -750,9 +768,6 @@
 (249) **Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning**
 , Edwin Simpson, Erik-Lân Do Dinh, Tristan Miller and Iryna Gurevych
 
-(250) **A Simple Theoretical Model of Importance for Summarization**
-, Maxime Peyrard
-
 (251) **Relating Simple Sentence Representations in Deep Neural Networks and the Brain**
 , Sharmistha Jat, Hao Tang, Partha Talukdar and Tom Mitchell
 
@@ -836,9 +851,6 @@
 
 (278) **Choosing Transfer Languages for Cross-Lingual Learning**
 , Yu-Hsiang Lin, Chian-Yu Chen, Jean Lee, Zirui Li, Yuyan Zhang, Mengzhou Xia, Shruti Rijhwani, Junxian He, Zhisong Zhang, Xuezhe Ma, Antonios Anastasopoulos, Patrick Littell and Graham Neubig
-
-(279) **Unsupervised Discovery of Gendered Language through Latent-Variable Modeling**
-, Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell
 
 (280) **Informative Image Captioning with External Sources of Information**
 , Sanqiang Zhao, Piyush Sharma, Tomer Levinboim and Radu Soricut
@@ -1001,9 +1013,6 @@
 
 (333) **StRE: Self Attentive Edit Quality Prediction in Wikipedia**
 , Soumya Sarkar, Bhanu Prakash Reddy, Sandipan Sikdar and Animesh Mukherjee
-
-(334) **Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization**
-, Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu
 
 (335) **Dynamically Fused Graph Network for Multi-hop Reasoning**
 , Lin Qiu, Yunxuan Xiao, Yanru Qu, Hao Zhou, Lei Li, Weinan Zhang and Yong Yu
@@ -1218,7 +1227,7 @@
 (405) **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good**
 , Xuewei Wang, Weiyan Shi, Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang and Zhou Yu
 
-(406) **Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces**
+(406) **[Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces](https://www.aclweb.org/anthology/P19-1018)**
 , Barun Patra, Joel Ruben Antony Moniz, Sarthak Garg, Matthew R. Gormley and Graham Neubig
 
 (407) **Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue**
@@ -1227,7 +1236,7 @@
 (408) **Quantifying Similarity between Relations with Fact Distribution**
 , Weize Chen, Hao Zhu, Xu Han, Zhiyuan Liu and Maosong Sun
 
-(409) **An Effective Approach to Unsupervised Machine Translation**
+(409) **[An Effective Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1902.01313.pdf)**
 , Mikel Artetxe, Gorka Labaka and Eneko Agirre
 
 (410) **NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language**
@@ -1244,9 +1253,6 @@
 
 (414) **Transforming Complex Sentences into a Semantic Hierarchy**
 , Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh
-
-(415) **Global Optimization under Length Constraint for Neural Text Summarization**
-, Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura
 
 (416) **Latent Variable Sentiment Grammar**
 , Liwen Zhang, Kewei Tu and Yue Zhang
@@ -1299,9 +1305,6 @@
 (432) **VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions**
 , Pranava Madhyastha, Josiah Wang and Lucia Specia
 
-(433) **Searching for Effective Neural Extractive Summarization: What Works and What’s Next**
-, Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang
-
 (434) **Give Me More Feedback II: Annotating Thesis Strength and Related Attributes in Student Essays**
 , Zixuan Ke, Hrishikesh Inamdar, Hui Lin and Vincent Ng
 
@@ -1310,9 +1313,6 @@
 
 (436) **Modeling Semantic Compositionality with Sememe Knowledge**
 , Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun
-
-(437) **Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings**
-, Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti
 
 (438) **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**
 , Haichao Zhu, Li Dong, Furu Wei, Wenhui Wang, Bing Qin and Ting Liu
@@ -1467,7 +1467,7 @@
 (488) **An Imitation Learning Approach to Unsupervised Parsing**
 , Bowen Li, Lili Mou and Frank Keller
 
-(489) **Domain Adaptive Inference for Neural Machine Translation**
+(489) **[Domain Adaptive Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.00408.pdf)**
 , Danielle Saunders, Felix Stahlberg, Adrià de Gispert and Bill Byrne
 
 (490) **Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization**
@@ -1590,7 +1590,7 @@
 (529) **Neural News Recommendation with Topic-Aware News Representation**
 , Chuhan Wu, Fangzhao Wu, Mingxiao An, Yongfeng Huang and Xing Xie
 
-(530) **Revisiting Low-Resource Neural Machine Translation: A Case Study**
+(530) **[Revisiting Low-Resource Neural Machine Translation: A Case Study](https://arxiv.org/pdf/1905.11901.pdf)**
 , Rico Sennrich and Biao Zhang
 
 (531) **Putting words in context: LSTM language models and lexical ambiguity**
@@ -1800,7 +1800,7 @@
 (599) **Depth Growing for Neural Machine Translation**
 , Lijun Wu, Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao QIN, Jianhuang Lai and Tie-Yan Liu
 
-(600) **Effective Adversarial Regularization for Neural Machine Translation**
+(600) **[Effective Adversarial Regularization for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1020)**
 , Motoki Sato, Jun Suzuki and Shun Kiyono
 
 (601) **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader**

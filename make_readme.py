@@ -7,12 +7,21 @@ def load():
         return json.load(f)
 
 def as_markdown(articles):
+    def has_tag(article):
+        for tag in ["word embedding", "summarization"]:
+            if tag in article['tags']:
+                return True
+        return False
+
     head = '# Reviews of ACL 2019 Papers\n'
     revieweds = []
+    taggeds = []
     notyets = []
     for article in articles:
         if article['review']:
             revieweds.append(article)
+        elif has_tag(article):
+            taggeds.append(article)
         else:
             notyets.append(article)
 
@@ -45,7 +54,7 @@ def as_markdown(articles):
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write('{}\n'.format(head))
 
-        for article in revieweds + notyets:
+        for article in revieweds + taggeds + notyets:
             f.write('{}\n'.format(as_text(article)))
 
     print('README.md has been updated.')
