@@ -443,8 +443,8 @@
     "title": "Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification",
     "authors": "Zhi-Xiu Ye and Zhen-Hua Ling",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1277",
+    "tags": ["information extraction"],
     "order": 55
   },
   {
@@ -1799,8 +1799,8 @@
     "title": "Fine-Grained Temporal Relation Extraction",
     "authors": "Siddharth Vashishtha, Benjamin Van Durme and Aaron Steven White",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1280",
+    "tags": ["information extraction"],
     "order": 223
   },
   {
@@ -2235,8 +2235,8 @@
     "title": "Open Domain Event Extraction Using Neural Latent Variable Models",
     "authors": "Xiao Liu, Heyan Huang and Yue Zhang",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1276",
+    "tags": ["information extraction"],
     "order": 277
   },
   {
@@ -2395,8 +2395,8 @@
     "title": "Matching the Blanks: Distributional Similarity for Relation Learning",
     "authors": "Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1278",
+    "tags": ["information extraction"],
     "order": 297
   },
   {
@@ -3287,8 +3287,8 @@
     "title": "Quantifying Similarity between Relations with Fact Distribution",
     "authors": "Weize Chen, Hao Zhu, Xu Han, Zhiyuan Liu and Maosong Sun",
     "review": "",
-    "link": "",
-    "tags": [],
+    "link": "https://www.aclweb.org/anthology/P19-1278",
+    "tags": ["information extraction"],
     "order": 408
   },
   {

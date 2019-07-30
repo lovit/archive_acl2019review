@@ -1,34 +1,22 @@
 # Reviews of ACL 2019 Papers
 
+(55) **[Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification](https://www.aclweb.org/anthology/P19-1277)**, `[information extraction]`
+, Zhi-Xiu Ye and Zhen-Hua Ling
+
+(223) **[Fine-Grained Temporal Relation Extraction](https://www.aclweb.org/anthology/P19-1280)**, `[information extraction]`
+, Siddharth Vashishtha, Benjamin Van Durme and Aaron Steven White
+
+(277) **[Open Domain Event Extraction Using Neural Latent Variable Models](https://www.aclweb.org/anthology/P19-1276)**, `[information extraction]`
+, Xiao Liu, Heyan Huang and Yue Zhang
+
+(297) **[Matching the Blanks: Distributional Similarity for Relation Learning](https://www.aclweb.org/anthology/P19-1278)**, `[information extraction]`
+, Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski
+
+(408) **[Quantifying Similarity between Relations with Fact Distribution](https://www.aclweb.org/anthology/P19-1278)**, `[information extraction]`
+, Weize Chen, Hao Zhu, Xu Han, Zhiyuan Liu and Maosong Sun
+
 (0) **[SphereRE: Distinguishing Lexical Relations with Hyperspherical Relation Embeddings](https://chywang.github.io/papers/acl2019.pdf)**, `[word embedding]`
 , Chengyu Wang, XIAOFENG HE and Aoying Zhou
-
-(41) **[Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/pdf/1906.01749.pdf)**, `[summarization]`
-, Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev
-
-(105) **[LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories](https://www.aclweb.org/anthology/P19-1165)**, `[word embedding]`
-, Ignacio Iacobacci and Roberto Navigli
-
-(133) **[Understanding Undesirable Word Embedding Associations](https://www.aclweb.org/anthology/P19-1166)**, `[word embedding]`
-, Kawin Ethayarajh, David Duvenaud and Graeme Hirst
-
-(250) **[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101)**, `[summarization]`
-, Maxime Peyrard
-
-(279) **[Unsupervised Discovery of Gendered Language through Latent-Variable Modeling](https://arxiv.org/pdf/1906.04760.pdf)**, `[word embedding]`
-, Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell
-
-(334) **[Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](https://arxiv.org/pdf/1906.00072.pdf)**, `[summarization]`
-, Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu
-
-(415) **[Global Optimization under Length Constraint for Neural Text Summarization](https://www.aclweb.org/anthology/P19-1099)**, `[summarization]`
-, Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura
-
-(433) **[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://arxiv.org/pdf/1907.03491.pdf)**, `[summarization]`
-, Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang
-
-(437) **[Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings](https://arxiv.org/pdf/1906.02688.pdf)**, `[word embedding]`
-, Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti
 
 (1) **Learning from Dialogue after Deployment: Feed Yourself, Chatbot!**
 , Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare and Jason Weston
@@ -150,6 +138,9 @@
 (40) **Learning Deep Transformer Models for Machine Translation**
 , Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong and Lidia S. Chao
 
+(41) **[Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/pdf/1906.01749.pdf)**, `[summarization]`
+, Alexander Fabbri, Irene Li, Tianwei She, Suyi Li and Dragomir Radev
+
 (42) **Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation**
 , Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou
 
@@ -188,9 +179,6 @@
 
 (54) **Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension**
 , Daesik Kim, Seonhoon Kim and Nojun Kwak
-
-(55) **Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification**
-, Zhi-Xiu Ye and Zhen-Hua Ling
 
 (56) **Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**
 , Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li
@@ -339,6 +327,9 @@
 (104) **A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction**
 , Mengjie Zhao and Hinrich Schütze
 
+(105) **[LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories](https://www.aclweb.org/anthology/P19-1165)**, `[word embedding]`
+, Ignacio Iacobacci and Roberto Navigli
+
 (106) **Word-order biases in deep-agent emergent communication**
 , Rahma Chaabouni, Evgeny Kharitonov, Alessandro Lazaric, Emmanuel Dupoux and Marco Baroni
 
@@ -419,6 +410,9 @@
 
 (132) **Learning Transferable Feature Representations Using Neural Networks**
 , Himanshu Sharad Bhatt, Shourya Roy, Arun Rajkumar and Sriranjani Ramakrishnan
+
+(133) **[Understanding Undesirable Word Embedding Associations](https://www.aclweb.org/anthology/P19-1166)**, `[word embedding]`
+, Kawin Ethayarajh, David Duvenaud and Graeme Hirst
 
 (134) **Exploring Sequence-to-Sequence Learning in Aspect Term Extraction**
 , Dehong Ma, Sujian Li, Fangzhao Wu, Xing Xie and Houfeng WANG
@@ -687,9 +681,6 @@
 (222) **ELI5: Long Form Question Answering**
 , Angela Fan, Yacine Jernite, Ethan Perez, David Grangier, Jason Weston and Michael Auli
 
-(223) **Fine-Grained Temporal Relation Extraction**
-, Siddharth Vashishtha, Benjamin Van Durme and Aaron Steven White
-
 (224) **Distant Learning for Entity Linking with Automatic Noise Detection**
 , Phong Le and Ivan Titov
 
@@ -767,6 +758,9 @@
 
 (249) **Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning**
 , Edwin Simpson, Erik-Lân Do Dinh, Tristan Miller and Iryna Gurevych
+
+(250) **[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101)**, `[summarization]`
+, Maxime Peyrard
 
 (251) **Relating Simple Sentence Representations in Deep Neural Networks and the Brain**
 , Sharmistha Jat, Hao Tang, Partha Talukdar and Tom Mitchell
@@ -846,11 +840,11 @@
 (276) **Sentiment Tagging with Partial Labels using Modular Architectures**
 , Xiao Zhang and Dan Goldwasser
 
-(277) **Open Domain Event Extraction Using Neural Latent Variable Models**
-, Xiao Liu, Heyan Huang and Yue Zhang
-
 (278) **Choosing Transfer Languages for Cross-Lingual Learning**
 , Yu-Hsiang Lin, Chian-Yu Chen, Jean Lee, Zirui Li, Yuyan Zhang, Mengzhou Xia, Shruti Rijhwani, Junxian He, Zhisong Zhang, Xuezhe Ma, Antonios Anastasopoulos, Patrick Littell and Graham Neubig
+
+(279) **[Unsupervised Discovery of Gendered Language through Latent-Variable Modeling](https://arxiv.org/pdf/1906.04760.pdf)**, `[word embedding]`
+, Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein and Ryan Cotterell
 
 (280) **Informative Image Captioning with External Sources of Information**
 , Sanqiang Zhao, Piyush Sharma, Tomer Levinboim and Radu Soricut
@@ -902,9 +896,6 @@
 
 (296) **Incremental Transformer with Deliberation Decoder for Document Grounded Conversations**
 , Zekang Li, Cheng Niu, Fandong Meng, Yang Feng, Qian Li and Jie Zhou
-
-(297) **Matching the Blanks: Distributional Similarity for Relation Learning**
-, Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski
 
 (298) **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation**
 , Vihan Jain, Gabriel Magalhaes, Alexander Ku, Ashish Vaswani, Eugene Ie and Jason Baldridge
@@ -1013,6 +1004,9 @@
 
 (333) **StRE: Self Attentive Edit Quality Prediction in Wikipedia**
 , Soumya Sarkar, Bhanu Prakash Reddy, Sandipan Sikdar and Animesh Mukherjee
+
+(334) **[Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](https://arxiv.org/pdf/1906.00072.pdf)**, `[summarization]`
+, Sangwoo Cho, Logan Lebanoff, Hassan Foroosh and Fei Liu
 
 (335) **Dynamically Fused Graph Network for Multi-hop Reasoning**
 , Lin Qiu, Yunxuan Xiao, Yanru Qu, Hao Zhou, Lei Li, Weinan Zhang and Yong Yu
@@ -1233,9 +1227,6 @@
 (407) **Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue**
 , Anusha Balakrishnan, Jinfeng Rao, Kartikeya Upasani, Michael White and Rajen Subba
 
-(408) **Quantifying Similarity between Relations with Fact Distribution**
-, Weize Chen, Hao Zhu, Xu Han, Zhiyuan Liu and Maosong Sun
-
 (409) **[An Effective Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1902.01313.pdf)**
 , Mikel Artetxe, Gorka Labaka and Eneko Agirre
 
@@ -1253,6 +1244,9 @@
 
 (414) **Transforming Complex Sentences into a Semantic Hierarchy**
 , Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh
+
+(415) **[Global Optimization under Length Constraint for Neural Text Summarization](https://www.aclweb.org/anthology/P19-1099)**, `[summarization]`
+, Takuya Makino, Tomoya Iwakura, Hiroya Takamura and Manabu Okumura
 
 (416) **Latent Variable Sentiment Grammar**
 , Liwen Zhang, Kewei Tu and Yue Zhang
@@ -1305,6 +1299,9 @@
 (432) **VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions**
 , Pranava Madhyastha, Josiah Wang and Lucia Specia
 
+(433) **[Searching for Effective Neural Extractive Summarization: What Works and What’s Next](https://arxiv.org/pdf/1907.03491.pdf)**, `[summarization]`
+, Ming Zhong, Pengfei Liu, Danqing Wang, Xipeng Qiu and Xuanjing Huang
+
 (434) **Give Me More Feedback II: Annotating Thesis Strength and Related Attributes in Student Essays**
 , Zixuan Ke, Hrishikesh Inamdar, Hui Lin and Vincent Ng
 
@@ -1313,6 +1310,9 @@
 
 (436) **Modeling Semantic Compositionality with Sememe Knowledge**
 , Fanchao Qi, Junjie Huang, Chenghao Yang, Zhiyuan Liu, Xiao Chen, Qun Liu and Maosong Sun
+
+(437) **[Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings](https://arxiv.org/pdf/1906.02688.pdf)**, `[word embedding]`
+, Vihari Piratla, Sunita Sarawagi and Soumen Chakrabarti
 
 (438) **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**
 , Haichao Zhu, Li Dong, Furu Wei, Wenhui Wang, Bing Qin and Ting Liu
